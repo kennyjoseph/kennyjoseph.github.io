@@ -6,9 +6,9 @@ I completed my graduate work in the [Societal Computing program](http://www.cmu.
 
 My research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their interrelationships with sociocultural structure. In my work, I leverage a variety of machine learning/NLP methods, agent-based modeling strategies and socio-cognitive theories.
 
-Finnaly, for those who don't want to click the buttons on the left, my info below:
+Finally, for those who don't want to click the buttons on the left, my info below:
 
-- *email:* josephkena  _A_T_ gmail _D_O_T_ com
+- *gmail:* josephkena
 - *twitter:* [_kenny_joseph](https://www.twitter.com/_kenny_joseph)
 - *github:* [kennyjoseph](https://www.github.com/kennyjoseph)
 
