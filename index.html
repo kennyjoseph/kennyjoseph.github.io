@@ -5,6 +5,7 @@ tagline:
 
 <div class="home_class">
 
-{% include research.md %}
+{% capture my_include %}{% include research.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </div>
