@@ -1,3 +1,8 @@
+---
+layout: page
+tagline:
+---
+
 # About Me
  
 I am a currently a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). 
