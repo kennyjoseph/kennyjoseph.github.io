@@ -14,7 +14,9 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent Stuff
 
-- Our CSCW paper entitled ""
+- Our CSCW paper entitled "Girls rule, boys drool: Inferring semantic and affective relationships between identitites from text" was accepted to CSCW. Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) and head over to Github for the 
+[code and data](https://github.com/kennyjoseph/twitter_stereotype_extraction).
+
 - I'll be attending the TextAsData conference in Boston in October!
 
 - I gave a talk entitled "What’s next for preventing adverse police/public interactions?" at the 2016 Data Science for Social Good Conference! [Slides here](papers/dssg_pres.pdf)
