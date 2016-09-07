@@ -57,6 +57,7 @@ Selected coverage: [ChicagoInno](http://chicagoinno.streetwise.co/2015/09/01/can
 - **Joseph, K.**, Tan, C. H., & Carley, K. M. (2012). Beyond “Local”, “Categories” and “Friends”: Clustering foursquare Users with Latent “Topics.” *LBSN 2012*. **Best Paper Award**.  
 [draft pdf](http://casos.cs.cmu.edu/publications/papers/2012BeyondLocal.pdf) |
 [article link](http://dl.acm.org/citation.cfm?id=2370422)
+
 ### Journal 
 
 - **Joseph, K.**, Wei, W., Benigni, M., & Carley, K. M. (2016). A social-event based approach to sentiment analysis of identities and behaviors in text. *The Journal of Mathematical Sociology*.  
