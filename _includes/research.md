@@ -14,6 +14,7 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent Stuff
 
+- Our CSCW paper entitled ""
 - I'll be attending the TextAsData conference in Boston in October!
 
 - I gave a talk entitled "What’s next for preventing adverse police/public interactions?" at the 2016 Data Science for Social Good Conference! [Slides here](papers/dssg_pres.pdf)
@@ -23,6 +24,12 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 For a full list, see my [CV](papers/cv.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en)
 
 ### Conference
+
+- Joseph, K., Wei, W., & Carley, K.M. (2017). Girls rule, boys drool: Inferring semantic and affective relationships between identities from text. CSCW 2017.
+[draft pdf](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) | 
+[code & data](https://github.com/kennyjoseph/twitter_stereotype_extraction) |
+
+
 
 - Carton, S., Helsby, J., **Joseph, K.**, Mahmud, A., Park, Y., Walsh, J., Haynes, L., Cody, C., Patterson, E. & Ghani, R. (2016). A Model for Improved Early Intervention to Reduce Adverse Police-Public Interactions. *KDD 2016*.  
 [draft pdf](https://dssg.uchicago.edu/wp-content/uploads/2016/04/identifying-police-officers-3.pdf) | 
