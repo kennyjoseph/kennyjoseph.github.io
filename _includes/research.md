@@ -14,6 +14,8 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent Stuff
 
+- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
+
 - Our CSCW paper entitled "Girls rule, boys drool: Inferring semantic and affective relationships between identitites from text" was accepted to CSCW. Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) and head over to Github for the 
 [code and data](https://github.com/kennyjoseph/twitter_stereotype_extraction).
 
@@ -31,7 +33,7 @@ For a full list, see my [CV](papers/cv.pdf) or [Google Scholar page](https://sch
 [draft pdf](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) | 
 [code & data](https://github.com/kennyjoseph/twitter_stereotype_extraction)
 
-
+- Joseph, K. \& Carley, K.M. (2016). Relating semantic similarity and semantic association to how humans label other people. *NLP+CSS, workshop at EMNLP 2016*.
 
 - Carton, S., Helsby, J., **Joseph, K.**, Mahmud, A., Park, Y., Walsh, J., Haynes, L., Cody, C., Patterson, E. & Ghani, R. (2016). A Model for Improved Early Intervention to Reduce Adverse Police-Public Interactions. *KDD 2016*.  
 [draft pdf](https://dssg.uchicago.edu/wp-content/uploads/2016/04/identifying-police-officers-3.pdf) | 
