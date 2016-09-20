@@ -29,11 +29,11 @@ For a full list, see my [CV](papers/cv.pdf) or [Google Scholar page](https://sch
 
 ### Conference
 
-- Joseph, K., Wei, W., & Carley, K.M. (2017). Girls rule, boys drool: Inferring semantic and affective relationships between identities from text. *CSCW 2017*.  
+- **Joseph, K.**, Wei, W., & Carley, K.M. (2017). Girls rule, boys drool: Inferring semantic and affective relationships between identities from text. *CSCW 2017*.  
 [draft pdf](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) | 
 [code & data](https://github.com/kennyjoseph/twitter_stereotype_extraction)
 
-- Joseph, K. & Carley, K.M. (2016). Relating semantic similarity and semantic association to how humans label other people. *NLP+CSS, workshop at EMNLP 2016*.  
+- **Joseph, K.** & Carley, K.M. (2016). Relating semantic similarity and semantic association to how humans label other people. *NLP+CSS, workshop at EMNLP 2016*.  
 [draft pdf](papers/nlp_css.pdf) | 
 [code & data](https://github.com/kennyjoseph/nlp_css_workshop)
 
