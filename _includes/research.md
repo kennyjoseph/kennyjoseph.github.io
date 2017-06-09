@@ -1,6 +1,6 @@
 # About Me
  
-I am a currently a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). 
+I am a currently a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). In July of 2018, I'll be joining the Computer Science Department at the University of Buffalo.  If you're interested in working together, get a hold of me!
 
 I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
 
@@ -14,14 +14,20 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent Stuff
 
-- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
+- I am happy to announce that I'll be joining the faculty at the University of Buffalo as an Assistant Professor of Computer Science in July of 2018. 
 
-- Our CSCW paper entitled "Girls rule, boys drool: Inferring semantic and affective relationships between identitites from text" was accepted to CSCW. Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) and head over to Github for the 
+- With Nir Grinberg and Brooke Foucault Welles, I organized a workshop on [Perceptual Biases and Social Media](https://pbsm2017.github.io) at ICWSM.
+
+- Along with a bunch of other people, I helped put together a [report on Fake News](https://shorensteincenter.org/wp-content/uploads/2017/05/Combating-Fake-News-Agenda-for-Research-1.pdf) from the Combating Fake News conference at Harvard in February.
+
+<!-- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
+
+[//]: # - Our CSCW paper entitled "Girls rule, boys drool: Inferring semantic and affective relationships between identitites from text" was accepted to CSCW. Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) and head over to Github for the 
 [code and data](https://github.com/kennyjoseph/twitter_stereotype_extraction).
 
-- I'll be attending the TextAsData conference in Boston in October!
+[//]: # - I'll be attending the TextAsData conference in Boston in October!
 
-- I gave a talk entitled "What’s next for preventing adverse police/public interactions?" at the 2016 Data Science for Social Good Conference! [Slides here](papers/dssg_pres.pdf)
+[//]: # - I gave a talk entitled "What’s next for preventing adverse police/public interactions?" at the 2016 Data Science for Social Good Conference! [Slides here](papers/dssg_pres.pdf) -->
 
 # Selected Publications, etc.
 
@@ -64,6 +70,8 @@ Selected coverage: [ChicagoInno](http://chicagoinno.streetwise.co/2015/09/01/can
 [article link](http://dl.acm.org/citation.cfm?id=2370422)
 
 ### Journal 
+
+- Benigni, M., **Joseph, K., * Carley, K.M. (forthcoming). Covert Network Detection in Social Media: Uncovering the ISIS Supporting Network on Twitter. *PLOS One*.
 
 - **Joseph, K.**, Wei, W., Benigni, M., & Carley, K. M. (2016). A social-event based approach to sentiment analysis of identities and behaviors in text. *The Journal of Mathematical Sociology*.  
 [draft pdf](papers/jms.pdf) | 
