@@ -12,13 +12,14 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 - *twitter:* [_kenny_joseph](https://www.twitter.com/_kenny_joseph)
 - *github:* [kennyjoseph](https://www.github.com/kennyjoseph)
 
-# Recent Stuff
+# Recent-ish Stuff
+
+- I'll be at EMNLP in Denmark to present our paper on improving stance classification by improving annotation schemes. Check out a draft [here](papers/emnlp2017.pdf) and the replication materials [here](https://github.com/kennyjoseph/constance)!
+
+- John Wihbey will presenting our work on linking who journalists follow on Twitter to the articles they write at the [DS+J workshop](https://sites.google.com/view/dsandj2017/home?authuser=0) at KDD! Check out the paper [here](papers/dsj.pdf)
 
 - I am happy to announce that I'll be joining the faculty at the University of Buffalo as an Assistant Professor of Computer Science in July of 2018. 
 
-- With Nir Grinberg and Brooke Foucault Welles, I organized a workshop on [Perceptual Biases and Social Media](https://pbsm2017.github.io) at ICWSM.
-
-- Along with a bunch of other people, I helped put together a [report on Fake News](https://shorensteincenter.org/wp-content/uploads/2017/05/Combating-Fake-News-Agenda-for-Research-1.pdf) from the Combating Fake News conference at Harvard in February.
 
 <!-- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
 
@@ -34,6 +35,10 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 For a full list, see my [CV](papers/cv.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en)
 
 ### Conference
+
+- **Joseph, K.**, Friedland, L., Hobbs, W., Lazar, D. & Tsur, O. (2017). Constance: Modeling Annotation Contexts to Improve Stance Classification. *EMNLP 2017*.  
+[draft pdf](papers/emnlp2017.pdf) | 
+[code & data](https://github.com/kennyjoseph/constance)
 
 - **Joseph, K.**, Wei, W., & Carley, K.M. (2017). Girls rule, boys drool: Inferring semantic and affective relationships between identities from text. *CSCW 2017*.  
 [draft pdf](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) | 
