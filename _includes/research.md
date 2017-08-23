@@ -16,9 +16,7 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 - I'll be at EMNLP in Denmark to present our paper on improving stance classification by improving annotation schemes. Check out a draft [here](papers/emnlp2017.pdf) and the replication materials [here](https://github.com/kennyjoseph/constance)!
 
-- John Wihbey will presenting our work on linking who journalists follow on Twitter to the articles they write at the [DS+J workshop](https://sites.google.com/view/dsandj2017/home?authuser=0) at KDD! Check out the paper [here](papers/dsj.pdf)
-
-- I am happy to announce that I'll be joining the faculty at the University of Buffalo as an Assistant Professor of Computer Science in July of 2018. 
+- John Wihbey presented our work on linking who journalists follow on Twitter to the articles they write at the [DS+J workshop](https://sites.google.com/view/dsandj2017/home?authuser=0) at KDD! Check out the paper [here](papers/dsj.pdf) and some of the coverage of our work ([Columbia Journalism Review](https://www.cjr.org/analysis/journalist-twitter-study.php), [Northeastern News](https://news.northeastern.edu/2017/08/study-finds-modest-correlation-between-journalists-social-networks-and-ideology-of-their-news-content/), [Axios](https://twitter.com/axios/status/899973874455937025))
 
 
 <!-- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
