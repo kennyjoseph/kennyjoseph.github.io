@@ -1,8 +1,10 @@
 # About Me
  
-I am a currently a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). In July of 2018, I'll be joining the Computer Science Department at the University of Buffalo.  If you're interested in working together, get a hold of me!
+I am an assistant professor in the [CSE](https://www.cse.buffalo.edu/) Department at the University at Buffalo.  
 
-I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
+<span style="color:red"> I am currently looking for graduate students to work with.  If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science.
+
+In the past, I was a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
 
 My research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their interrelationships with sociocultural structure. In my work, I leverage a variety of machine learning/NLP methods, agent-based modeling strategies and socio-cognitive theories.
 
@@ -12,14 +14,19 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 - *twitter:* [_kenny_joseph](https://www.twitter.com/_kenny_joseph)
 - *github:* [kennyjoseph](https://www.github.com/kennyjoseph)
 
+<!--
 # Recent-ish Stuff
+
+- Joined the CSE Department at the University at Buffalo!
+
+
 
 - I'll be at EMNLP in Denmark to present our paper on improving stance classification by improving annotation schemes. Check out a draft [here](papers/emnlp2017.pdf) and the replication materials [here](https://github.com/kennyjoseph/constance)!
 
 - John Wihbey presented our work on linking who journalists follow on Twitter to the articles they write at the [DS+J workshop](https://sites.google.com/view/dsandj2017/home?authuser=0) at KDD! Check out the paper [here](papers/dsj.pdf) and some of the coverage of our work ([Columbia Journalism Review](https://www.cjr.org/analysis/journalist-twitter-study.php), [Northeastern News](https://news.northeastern.edu/2017/08/study-finds-modest-correlation-between-journalists-social-networks-and-ideology-of-their-news-content/), [Axios](https://twitter.com/axios/status/899973874455937025))
 
 
-<!-- Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
+ Our paper for the NLP+CSS workshop at EMNLP 2016 entitled "Relating semantic similarity and semantic association to how humans label other people" was accepted! Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/nlp_css_2017.pdf) and replicate the results at the [Github repo](https://github.com/kennyjoseph/nlp_css_workshop).
 
 [//]: # - Our CSCW paper entitled "Girls rule, boys drool: Inferring semantic and affective relationships between identitites from text" was accepted to CSCW. Check out a [draft of the paper](http://www.cs.cmu.edu/~kjoseph/papers/cscw_17.pdf) and head over to Github for the 
 [code and data](https://github.com/kennyjoseph/twitter_stereotype_extraction).
@@ -30,7 +37,7 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Selected Publications, etc.
 
-For a full list, see my [CV](papers/cv.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en)
+For a full list, [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en) or the (likely slightly out of date) [CV](papers/cv.pdf).
 
 ### Conference
 
@@ -74,7 +81,7 @@ Selected coverage: [ChicagoInno](http://chicagoinno.streetwise.co/2015/09/01/can
 
 ### Journal 
 
-- Benigni, M., **Joseph, K., * Carley, K.M. (forthcoming). Covert Network Detection in Social Media: Uncovering the ISIS Supporting Network on Twitter. *PLOS One*.
+- Benigni, M., **Joseph, K.,** Carley, K.M. (forthcoming). Covert Network Detection in Social Media: Uncovering the ISIS Supporting Network on Twitter. *PLOS One*.
 
 - **Joseph, K.**, Wei, W., Benigni, M., & Carley, K. M. (2016). A social-event based approach to sentiment analysis of identities and behaviors in text. *The Journal of Mathematical Sociology*.  
 [draft pdf](papers/jms.pdf) | 
