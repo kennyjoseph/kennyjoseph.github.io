@@ -2,7 +2,7 @@
  
 I am an assistant professor in the [CSE](https://www.cse.buffalo.edu/) Department at the University at Buffalo.  
 
-<span style="color:red"> I am currently looking for graduate students to work with.  If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science.
+<!--<span style="color:red"> I am currently looking for graduate students to work with.  If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science. -->
 
 In the past, I was a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
 
