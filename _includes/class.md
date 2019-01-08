@@ -24,14 +24,14 @@ This seminar course will focus on giving students a broad understanding of state
 |5 | February 28 | Annotating Text | - Berzak et al. (2016). *Anchoring and Agreement in Syntactic Annotations* <br> - Passonneau & Carpenter (2014). *The benefits of a model of annotation* <br> - Snow et al. (2008). *Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks* | #annotation|
 |6 | March 7 | NLP, Social Media and the News | - Flaxman et al. (2016). *Filter Bubbles, Echo Chambers, and Online News Consumption* <br> - Schmidt et al. (2017). *Anatomy of news consumption on Facebook*  <br> - Wihbey et al. (2018). *The social silos of journalism? Twitter, news media and partisan segregation* |#news|
 |7 | March 14 | Online Hate Speech | - Davidson et al. (2017). *Automated Hate Speech Detection and the Problem of Offensive Language* <br> - Olteanu et al. (2018). *The Effect of Extremist Violence on Hateful Speech Online* <br> - Waseem & Hovy (2016). *Hateful symbols or hateful people? predictive features for hate speech detection on twitter* |  #hatespeech |
-|8 | March 21 | **NO CLASS, Spring Break!** | |
-|9 | March 28 | Politics | #politics|
-|10| April 4 | Biases in Data Collection | #databias|
-|11| April 11 | Social Networks| #networks|
-|12| April 18 | Agent-based Modeling | #abms |
-|13| April 25 | Case Study on Algorithmic Bias - Predictive Policing | #predpol|
-|14| May 2 | Large-scale Experimentation; **NO PRESENTATIONS** | #experiments|
-|15| May 9 | **NO CLASS, Poster Presentations!** | |
+|8 | March 21 | **NO CLASS, Spring Break!** | | |
+|9 | March 28 | Politics | - Cohen & Ruths (2013). *Classifying Political Orientation on Twitter: It’s Not Easy! * <br> - De Choudhury et al. (2016). *Social Media Participation in an Activist Movement for Racial Equality* <br> - Flaxman et al. (2015). *Who supported Obama in 2012?: Ecological inference through distribution regression* <br> - Johnson & Goldwasser (2016). *Identifying Stance by Analyzing Political Discourse on Twitter* | #politics|
+|10| April 4 | Biases in Data Collection | - Blodgett et al. (2016). *Demographic dialectal variation in social media: A case study of African-American English* <br> - Malik et al. (2015). *Population Bias in Geotagged Tweets* <br> - Morstatter et al. (2013). *Is the sample good enough? comparing data from twitter’s streaming api with twitter’s firehose* <br> - Tufekci (2014). *Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls* |#databias|
+|11| April 11 | Social Networks|- Backstrom et al. (2006). *Group formation in large social networks: membership, growth, and evolution* <br> - Hoff et al. (2002). *Latent space approaches to social network analysis* <br> - Shalizi & Thomas (2011). *Homophily and Contagion Are Generically Confounded in Observational Social Network Studies*  | #networks|
+|12| April 18 | Agent-based Modeling | - Axelrod (1997). *The Dissemination of Culture A Model with Local Convergence and Global Polarization* <br> - Carley (1991). *A Theory of Group Stability* <br> - Centola et al. (2007). *Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups* <br> - Schelling (1971). *Dynamic models of segregation* | #abms |
+|13| April 25 | Case Study on Algorithmic Bias - Predictive Policing | - Ensign et al. (2017). *Runaway Feedback Loops in Predictive Policing* <br> - Ensign et al. (2018). *Decision making with limited feedback: Error bounds for recidivism prediction and predictive policing* <br> - Lum & Issac (2016). *To predict and serve?* | #predpol|
+|14| May 2 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* |#experiments|
+|15| May 9 | **NO CLASS, Poster Presentations!** | | |
 
 
 
