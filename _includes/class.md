@@ -12,6 +12,10 @@
 
 This seminar course will focus on giving students a broad understanding of state-of-the-art methods in NLP and how they can be applied to address questions in the social sciences and/or humanities. Topics will also include other relevant areas of computational social science, including social network analysis and large-scale experimental design. 
 
+# Course Goals and Learning Objectives
+
+Students will:
+- 
 
 # Schedule
 
@@ -25,12 +29,12 @@ This seminar course will focus on giving students a broad understanding of state
 |6 | March 7 | NLP, Social Media and the News | - Flaxman et al. (2016). *Filter Bubbles, Echo Chambers, and Online News Consumption* <br> - Schmidt et al. (2017). *Anatomy of news consumption on Facebook*  <br> - Wihbey et al. (2018). *The social silos of journalism? Twitter, news media and partisan segregation* |#news|
 |7 | March 14 | Online Hate Speech | - Davidson et al. (2017). *Automated Hate Speech Detection and the Problem of Offensive Language* <br> - Olteanu et al. (2018). *The Effect of Extremist Violence on Hateful Speech Online* <br> - Waseem & Hovy (2016). *Hateful symbols or hateful people? predictive features for hate speech detection on twitter* |  #hatespeech |
 |8 | March 21 | **NO CLASS, Spring Break!** | | |
-|9 | March 28 | Politics | - Cohen & Ruths (2013). *Classifying Political Orientation on Twitter: It’s Not Easy! * <br> - De Choudhury et al. (2016). *Social Media Participation in an Activist Movement for Racial Equality* <br> - Flaxman et al. (2015). *Who supported Obama in 2012?: Ecological inference through distribution regression* <br> - Johnson & Goldwasser (2016). *Identifying Stance by Analyzing Political Discourse on Twitter* | #politics|
+|9 | March 28 | Politics | - Cohen & Ruths (2013). *Classifying Political Orientation on Twitter: It’s Not Easy!* <br> - De Choudhury et al. (2016). *Social Media Participation in an Activist Movement for Racial Equality* <br> - Flaxman et al. (2015). *Who supported Obama in 2012?: Ecological inference through distribution regression* <br> - Johnson & Goldwasser (2016). *Identifying Stance by Analyzing Political Discourse on Twitter* | #politics|
 |10| April 4 | Biases in Data Collection | - Blodgett et al. (2016). *Demographic dialectal variation in social media: A case study of African-American English* <br> - Malik et al. (2015). *Population Bias in Geotagged Tweets* <br> - Morstatter et al. (2013). *Is the sample good enough? comparing data from twitter’s streaming api with twitter’s firehose* <br> - Tufekci (2014). *Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls* |#databias|
 |11| April 11 | Social Networks|- Backstrom et al. (2006). *Group formation in large social networks: membership, growth, and evolution* <br> - Hoff et al. (2002). *Latent space approaches to social network analysis* <br> - Shalizi & Thomas (2011). *Homophily and Contagion Are Generically Confounded in Observational Social Network Studies*  | #networks|
 |12| April 18 | Agent-based Modeling | - Axelrod (1997). *The Dissemination of Culture A Model with Local Convergence and Global Polarization* <br> - Carley (1991). *A Theory of Group Stability* <br> - Centola et al. (2007). *Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups* <br> - Schelling (1971). *Dynamic models of segregation* | #abms |
 |13| April 25 | Case Study on Algorithmic Bias - Predictive Policing | - Ensign et al. (2017). *Runaway Feedback Loops in Predictive Policing* <br> - Ensign et al. (2018). *Decision making with limited feedback: Error bounds for recidivism prediction and predictive policing* <br> - Lum & Issac (2016). *To predict and serve?* | #predpol|
-|14| May 2 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* |#experiments|
+|14| May 2 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* <br> - Salgani et. al (2006). *Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market* |#experiments|
 |15| May 9 | **NO CLASS, Poster Presentations!** | | |
 
 
@@ -122,11 +126,40 @@ Additionally, the first slide should contain:
 - Full citation of the paper (APA format or similar is fine)
 - Your name and the date of the presentation.
 
-# Project write ups
+# Project
+
+***Disclaimer: I stole this idea, and consequently a decent portion of the text below, directly from [Jacob Eisenstein](https://github.com/jacobeisenstein/gt-css-class/blob/master/grading.md#poster-presentation).*** 
+
+
+The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of *2* students, and the paper must be approved by the professor before the submission of the formal proposal. A list of recommended papers can be found [from Jacob's original list](https://docs.google.com/spreadsheets/d/1O9pofBgcqhAE7Oz9cw5XoSMu18jrR49e9O-I0xfu7OU/edit#gid=1224542966) or one from [the list that I have created](). You can also suggest your own.  If there is an odd number of students, I will allow one group of three students.
+
+Full details are forthcoming, but for now, it should suffice to say that the project will mostly be similar to what Jacob's grading sheet has outlined.
+
+## Write up specifics
 
 Details forthcoming.
 
-# Project poster presentation
+## Poster specifics
 
 Details forthcoming.
 
+
+# In progress list of miscellaneous related resources
+
+## Syllabi for a subset of related courses
+
+- [John Mclevey: Computational Social Science](http://www.johnmclevey.com/475/)
+- [Jacob Eisenstein: Computational Social Science course](https://github.com/jacobeisenstein/gt-css-class)
+- [Many folks: Computational Social Science Summer School](https://compsocialscience.github.io/summer-institute/2018/boulder/)
+- [Katrin Tiidenberg: Social Media and Society](http://kkatot.tumblr.com/post/177696913112/syllabus-social-media-and-society-2018)
+- [Pablo Barbera: Measurement Models and Statistical Computing](http://pablobarbera.com/POIR613/index.html)
+- [Brendan O'Connor: Introduction to NLP](https://people.cs.umass.edu/~brenocon/inlp2016/)
+- [Brandon Stewart: Text as Data](https://scholar.princeton.edu/sites/default/files/bstewart/files/textsyllabus2016.pdf)
+- [Matt Salganik: Computational Social Science](http://www.princeton.edu/~mjs3/soc596_f2016/)
+
+## Books:
+
+- [Bit by bit: Social Research in the Digital Age](https://www.bitbybitbook.com/)
+- [Natural Langauge Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+- [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
