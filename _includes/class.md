@@ -131,7 +131,7 @@ Additionally, the first slide should contain:
 ***Disclaimer: I stole this idea, and consequently a decent portion of the text below, directly from [Jacob Eisenstein](https://github.com/jacobeisenstein/gt-css-class/blob/master/grading.md#poster-presentation).*** 
 
 
-The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of *2* students, and the paper must be approved by the professor before the submission of the formal proposal. A list of recommended papers can be found [from Jacob's original list](https://docs.google.com/spreadsheets/d/1O9pofBgcqhAE7Oz9cw5XoSMu18jrR49e9O-I0xfu7OU/edit#gid=1224542966) or one from [the list that I have created](). You can also suggest your own.  If there is an odd number of students, I will allow one group of three students.
+The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of *2* students, and the paper must be approved by the professor before the submission of the formal proposal. A list of recommended papers can be found [from Jacob's original list](https://docs.google.com/spreadsheets/d/1O9pofBgcqhAE7Oz9cw5XoSMu18jrR49e9O-I0xfu7OU/edit#gid=1224542966) or one from [the list that I have created](https://docs.google.com/spreadsheets/d/11Ker4ItaEcN6jZecg98y_qkgKpRtKUh45Jtt9AVWuhE/edit?usp=sharing). You can also suggest your own.  If there is an odd number of students, I will allow one group of three students.
 
 Full details are forthcoming, but for now, it should suffice to say that the project will mostly be similar to what Jacob's grading sheet has outlined.
 
