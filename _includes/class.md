@@ -8,14 +8,10 @@
 - Office Hours: 335 Bell Hall, 1:00-3:00 PM on Thursdays, or by appointment
 
 - Communication via email: **Please prefix all emails to me with [CSE702] in the subject so I can respond in a timely manner**.
+
 # Overview 
 
 This seminar course will focus on giving students a broad understanding of state-of-the-art methods in NLP and how they can be applied to address questions in the social sciences and/or humanities. Topics will also include other relevant areas of computational social science, including social network analysis and large-scale experimental design. 
-
-# Course Goals and Learning Objectives
-
-Students will:
-- 
 
 # Schedule
 
