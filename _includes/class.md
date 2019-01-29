@@ -31,7 +31,7 @@ This seminar course will focus on giving students a broad understanding of state
 |12| April 18 | Agent-based Modeling | - Axelrod (1997). *The Dissemination of Culture A Model with Local Convergence and Global Polarization* <br> - Carley (1991). *A Theory of Group Stability* <br> - Centola et al. (2007). *Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups* <br> - Schelling (1971). *Dynamic models of segregation* | #abms |
 |13| April 25 | Case Studies on Algorithmic Bias | - Ensign et al. (2017). *Runaway Feedback Loops in Predictive Policing* <br> - Bolukbasi et al. (2016). Man is to computer programmer as woman is to homemaker? debiasing word embeddings ([link](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)) <br> - Hannak et al. (2014). Measuring price discrimination and steering on e-commerce web sites. | #predpol|
 |14| May 2 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* <br> - Salgani et. al (2006). *Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market* |#experiments|
-|15| May 9 | **NO CLASS, Poster Presentations!** | | |
+|15| May 9 | **Poster Presentations, Kenny's favorite social science papers, Wrapping Up, Pizza Party** | | |
 
 
 
@@ -41,7 +41,7 @@ It is assumed that students have some background in machine learning. Also, alth
 
 # Course Credits
 
-You can take this seminar for either 1 credit or 3 credits. With 1 credit, your responsibility is to read papers, write and respond to critiques on the course slack channel, and present at least one paper to the class. With 3 credits, you will also design and carry out a research project that will be presented in a poster session at the end of the semester
+You can take this seminar for either 1 credit or 3 credits. With 1 credit, your responsibility is to read papers, write and respond to critiques on the course slack channel, and present two papers to the class. With 3 credits, you will also design and carry out a research project that will be presented in a poster session at the end of the semester
 
 # Grading
 
@@ -57,7 +57,7 @@ Important notes on weekly graded assignments:
 - **Every class you miss after the first 2 will be a letter deduction from your grade (i.e. A to A-).**
 
 In addition, you will present two papers to the class. These presentations will be graded on an additional 15-points:
-- 15 minute presentation of the paper (guidelines below; **10 points**)
+- 12 minute presentation of the paper (guidelines below; **10 points**)
 - Taking part in leading the discussion of the paper in class (**5 points**)
 
 Students taking the course for 1 credit or as S/U must do the following to pass the course:
