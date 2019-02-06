@@ -19,7 +19,7 @@ This seminar course will focus on giving students a broad understanding of state
 | :---- | :-----: | :-----: | :--------- | :----------: |
 |1 | January 31 | **NO CLASS ITS COLD OUTSIDE**| | |
 |2 | February 7 |  **Introduction - The Basics of NLP+CSS**  | Lazer et al. (2009). [*Life in the Network: the coming of age of computational social science*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/) <br> - O'Connor et al. (2011). [*Computational Text Analysis for Social Science: Model Assumptions and Complexity*](http://brenocon.com/oconnor+bamman+smith.nips2011css.text_analysis.pdf) | NO SLACK DISCUSSION|
-|3 | February 14 | Topic Models | - **Presenter: Krithika**  Blei et al. (2003). *[Latent dirichlet allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)* <br> - Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)* <br> - **Presenter: Yuhao** Card et al. (2017). *[A Neural Framework for Generalized Topic Models](https://www.cs.cmu.edu/~dcard/resources/ACL_2018_paper.pdf)* <br> - Wallach et al. (2009). *[Evaluation methods for topic models](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4587/MurrayI_Evaluation%20Methods%20for.pdf?sequence=1&isAllowed=y)* |#topicmodeling |
+|3 | February 14 | Topic Models | - **<span style="color:red">Presenter: Krithika</span>**  Blei et al. (2003). *[Latent dirichlet allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)* <br> - Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)* <br> - **<span style="color:red">Presenter: Yuhao</span>** Card et al. (2017). *[A Neural Framework for Generalized Topic Models](https://www.cs.cmu.edu/~dcard/resources/ACL_2018_paper.pdf)* <br> - Wallach et al. (2009). *[Evaluation methods for topic models](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4587/MurrayI_Evaluation%20Methods%20for.pdf?sequence=1&isAllowed=y)* |#topicmodeling |
 |4 | February 21 | Word Vectors |  - Mikolov et al. (2013). *Efficient estimation of word representations in vector space*<br> - Pennington et al.(2014). *Glove: Global vectors for word representation* <br> - Vilnis & McCallum (2014). *Word representations via Gaussian embedding* <br> - Levy et al. (2015). *Improving distributional similarity with lessons learned from word embeddings*<br> - Peters et al. (2018). *Deep contextualized word representations*  | #wordvectors|
 |5 | February 28 | Sentiment Analysis | - Hutto & Gilbert (2014). *Vader: A parsimonious rule-based model for sentiment analysis of social media text* <br> - Ahothali & Hoey (2015). *Good News or Bad News: Using Affect Control Theory to Analyze Readers’ Reaction Towards News Articles* <br> - Felbo et al. (2017). *Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm* <br> - Socher et al. (2013). *Recursive deep models for semantic compositionality over a sentiment treebank* | #sentimentstance|
 |6 | March 7 | Annotating Text | - Berzak et al. (2016). *Anchoring and Agreement in Syntactic Annotations* <br> - Passonneau & Carpenter (2014). *The benefits of a model of annotation* <br> - Snow et al. (2008). *Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks* | #annotation|
@@ -30,8 +30,9 @@ This seminar course will focus on giving students a broad understanding of state
 |11| April 11 | Biases in Data Collection | - Blodgett et al. (2016). *Demographic dialectal variation in social media: A case study of African-American English* <br> - Malik et al. (2015). *Population Bias in Geotagged Tweets* <br> - Morstatter et al. (2013). *Is the sample good enough? comparing data from twitter’s streaming api with twitter’s firehose* <br> - Tufekci (2014). *Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls* |#databias|
 |12| April 18 |Social Networks|- Backstrom et al. (2006). *Group formation in large social networks: membership, growth, and evolution* <br> - Hoff et al. (2002). *Latent space approaches to social network analysis* <br> - Shalizi & Thomas (2011). *Homophily and Contagion Are Generically Confounded in Observational Social Network Studies*  | #networks|
 |13| April 25 |  Agent-based Modeling | - Axelrod (1997). *The Dissemination of Culture A Model with Local Convergence and Global Polarization* <br> - Carley (1991). *A Theory of Group Stability* <br> - Centola et al. (2007). *Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups* <br> - Schelling (1971). *Dynamic models of segregation* | #abms |
-|14| May 2 | Case Studies on Algorithmic Bias | - Ensign et al. (2017). *Runaway Feedback Loops in Predictive Policing* <br> - Bolukbasi et al. (2016). Man is to computer programmer as woman is to homemaker? debiasing word embeddings ([link](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)) <br> - Hannak et al. (2014). Measuring price discrimination and steering on e-commerce web sites. | #predpol|
-|15| May 9 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* <br> - Salgani et. al (2006). *Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market* |#experiments|
+|14| May 2 | Case Studies on Algorithmic Bias | - Ensign et al. (2017). *Runaway Feedback Loops in Predictive Policing* <br> - Bolukbasi et al. (2016). [*Man is to computer programmer as woman is to homemaker? debiasing word embeddings*](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) <br> - Hannak et al. (2014). Measuring price discrimination and steering on e-commerce web sites. | #predpol|
+|15| May 9 | Large-scale Experimentation; **NO PRESENTATIONS** | - Bail et al. (2018). *Exposure to opposing views on social media can increase political polarization* <br> - Bond et al. (2012). *A 61-million-person experiment in social influence and political mobilization* <br> - Kramer et al. (2014). *Experimental evidence of massive-scale emotional contagion through social networks* <br> - Salgani et. al (2006). *Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market* <br> - Paluck et al. (2016). *Changing climates of conflict: A social network experiment in 56 schools*
+ |#experiments|
 
 
 
@@ -68,8 +69,16 @@ Students taking the course for 1 credit or as S/U must do the following to pass 
 
 For students taking the course for three credits, an additional **80 points** are allocated to the [project](#project).
 
-Final letter grades will be given according to how many points students obtain. Breakdowns will be emailed to the class.
+Final letter grades will be given according to how many points students obtain. Breakdowns (percentagewise):
 
+- A	[92.5,100]
+- A-	[87.5,92.5)
+- B+	[82.5,87.5)
+- B	[77.5,82.5)
+- B-	[72.5,77.5)
+- C+	[67.5,72.5)
+- C	[62.5,67.5)
+- C-	[57.5,62.5)
 
 # Reading and paper presentation details
 
@@ -163,7 +172,21 @@ One team member should submit the proposal for the entire team.  If you submit i
 
 ## Final Report
 
-Details forthcoming.
+Your final report should be submitted as a PDF and be no longer than ten pages in AAAI format. For this, you can use either the [AAAI overleaf template](https://www.aaai.org/Publications/Author/author.php) or take the Word or Latex file from [here](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp).
+
+The format of your report can be loosely aligned with that of the typical research papers we have read, i.e. it will likely have the at least the following sections:
+
+- Introduction - This section should explain the objective of your project - what were you trying to do (or, if you're doing a pure replication, what was the original paper trying to do)?  It should also explain why that objective is important - why do you want to carry out this research, how would it move our understanding of the social world forward?
+
+- Background Section - This section will provide a literature review that would be appropriate for a conference paper, and should include works covered in class that are relevant to your research question. If you're doing a pure replication, don't just copy/paste their reference section; think critically about what other work you've learned about might be related here!
+
+- Data description - How did you collect this data? What are the strengths and weaknesses of it? How does the data that you have to analyze compare to the data in the paper you're replicating?
+
+- Methodology - What was the approach you took to analyze the data. How did this approach compare to the original paper? Was it the same? If so, how can you be sure? If not, what's different, and why? Explain the methods here as if you were providing details of your approach to someone who does not know the intimate details of the original paper.
+
+- Results – Provide the results of your analysis, and compare them to the results of the original paper.  If the replication did not succeed, try to explain why not. Were you lacking key information from the original authors? Were you unable to obtain the same data? If the replication did succeed, try to explain the limitations of your replication: would it work on other data? Does it rely on the method being implemented in exactly the same way as the original authors did?
+
+- Conclusion - What did you learn - about computational social science, replication, and the original paper? What other important things did you glean from your analyses that may not have been noted in the original paper (especially if you carried out an extension of it)?
 
 ## Poster Presentation
 
