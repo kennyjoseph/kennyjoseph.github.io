@@ -94,9 +94,11 @@ Students are expected to actively participate in discussion of all papers for wh
 
 All responses to readings must be put onto Slack by **Wednesday at 11:59PM**, onto the slack channel for that week's readings.  Responses submitted after this time or to a different channel will not be accepted.
 
-Responses to readings must be at least two paragraphs long (roughly 5-7 sentences each).  
+Responses to readings should have 1) a (roughly) 4-6 sentence summary of the main points of the paper and 2) a second paragraph on something particularly interesting or worrying or useful that you yourself got from the paper.  
 
-The first paragraph should summarize the paper. You may choose to address some of the following questions, but should not feel inclined to simply answer only these questions:
+**Before these two paragraphs, state the paper you are responding to in bold.  See the #intro channel for example responses**.
+
+The first paragraph might choose to address some of the following questions, but should not feel inclined to simply answer only or all these questions:
 
 - What is the main point of the paper?
 - What novel technical insights does the paper have, if any?
@@ -104,7 +106,13 @@ The first paragraph should summarize the paper. You may choose to address some o
 - What is the biggest strength of the paper, if any?
 - What is the biggest weakness of the paper, if any?
 
-The second paragraph should contain something particularly interesting or worrying or useful that you yourself got from the paper. It might be something small - a new way of thinking about a problem you're working on, for example.  It could also be a discussion of a part of the paper you found confusing, i.e. a request for others to help you understand part of the paper.  This second paragraph will serve as the basis for discussion during the class.
+The second paragraph might consider some of the following questions:
+
+- Does this paper help you think in a new way about a problem you're working on?
+- Is there a part of the paper you found particularly confusing that you'd like help understanding?
+- How does this paper link to some of the other papers we discussed this week?
+
+This second paragraph will serve as the basis for discussion during the class.
 
 ## Comments on Responses on Slack
 
@@ -119,15 +127,22 @@ Paper presentations are expected to be 12 minutes long (give or take a minute or
 The presentation should cover the following, although you may choose to spend more or less time on particular parts (i.e. you may want to spend a lot of time on the methodology if its a methods paper, or the interesting results if it is an application paper):
 
 - A summary slide - what was the main point of the paper, the main methods and data used, and the main conclusion
-- Details on the data, including potential biases within it
-- Details on the methodology - you should give enough detail here that someone who has not read the paper at all can grasp all steps of the methodology
-- Details on related work - what else did the authors report as being similar to their work? Do you think they missed anything? Are there any related papers you think people should read if they are interested in this topic?
-- What are the main results of the paper? Did you find them convincing? Why or why not?
-- What are the key weaknesses of this paper?
-- What are the key strengths of this paper?
-- If this is a methods paper, where else do you think this method could be useful; i.e. what other datasets or kinds of data? Would the method need to be changed in order to do so?
-- If this is an application paper, what other methods do you think might have been applicable to the problem? Would using a different method have been better or lead to different conclusions? If so, how/why?
-- Would you recommend this paper to others? Why or why not?
+- Detailed summary of the paper
+	- What were the main research questions or hypotheses that the paper was looking at? Or, what was the main technical challenge the paper was seeking to address?
+	- Why is (or isn't) this an important problem? I.e. why is (or isn't) this paper interesting and important?
+	- How did this paper go about answering these research questions?
+		- Details on the data, including potential biases within it
+		- Details on the methodology - you should give enough detail here that someone who has not read the paper at all can grasp all steps of the methodology
+	- What are the main results of the paper, in terms of the research questions posed?
+	
+- Your personal take on the paper
+	- Would you recommend this paper to others? Why or why not?
+	- What are the key weaknesses of this paper?
+	- What are the key strengths of this paper?
+	- If this is a methods paper, where else do you think this method could be useful; i.e. what other datasets or kinds of data? Would the method need to be changed in order to do so?
+	- If this is an application paper, what other methods do you think might have been applicable to the problem? Would using a different method have been better or lead to different conclusions? If so, how/why?
+	- Can you think of other related papers beyond the ones the authors reference, e.g. papers that followed after this one? Are there any related papers you think people should read if they are interested in this topic?
+	
 - A summary of the slack discussion around this paper.  What were the most popular responses? Were there any things people didn't understand? Have you clarified them?
 - What would be useful for the class to discuss for this paper? Give at least three points for further discussion.
 
