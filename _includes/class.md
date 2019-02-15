@@ -5,7 +5,7 @@
 - Time: Thursdays, 3:00-5:00 PM
 - Location: Baldy 106
 
-- Office Hours: 335 Bell Hall, 1:00-3:00 PM on Thursdays, or by appointment
+- Office Hours: 335 Davis Hall, 1:00-3:00 PM on Thursdays, or by appointment
 
 - Communication via email: **Please prefix all emails to me with [CSE702] in the subject so I can respond in a timely manner**.
 
@@ -219,6 +219,9 @@ Details forthcoming.
 - [Brendan O'Connor: Introduction to NLP](https://people.cs.umass.edu/~brenocon/inlp2016/)
 - [Brandon Stewart: Text as Data](https://scholar.princeton.edu/sites/default/files/bstewart/files/textsyllabus2016.pdf)
 - [Matt Salganik: Computational Social Science](http://www.princeton.edu/~mjs3/soc596_f2016/)
+- [Philip Resnik: Computational Social Science](http://users.umiacs.umd.edu/~resnik/ling848_fa2013/syllabus.html)
+- [Chenhao Tan: Reading group on social aspects of language](https://chenhaot.com/courses/reading-group-on-social-aspects-of-language.html)
+- [Justin Grimmer: Text as Data Syllabus](http://stanford.edu/~jgrimmer/Text14/textsyll.pdf)
 
 ## Books:
 
