@@ -229,3 +229,8 @@ Details forthcoming.
 - [Natural Langauge Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 - [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
+
+## Resource Lists:
+
+- [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
+- [Some fast.ai deep learning courses](https://www.fast.ai/)

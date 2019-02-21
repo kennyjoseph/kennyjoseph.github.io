@@ -14,12 +14,18 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 - *twitter:* [_kenny_joseph](https://www.twitter.com/_kenny_joseph)
 - *github:* [kennyjoseph](https://www.github.com/kennyjoseph)
 
-<!--
+
 # Recent-ish Stuff
 
+- [Our work](http://science.sciencemag.org/content/363/6425/374.abstract) on fake news, co-led by [Nir Grinberg](http://www.nirg.net/), [Lisa Friedland](https://lfriedl.github.io/) and I, was recently published in Science!  See some of the press coverage [here](https://t.co/0b9B0fsvtG) and [here](https://t.co/yzRKfO6UZv).
+
+- [Our work](https://doi.org/10.1145/3274417), led by [Ron Robertson](http://ronalderobertson.com) on biases (or lack thereof) in Google Searches received an honorable mention for Best Paper at CSCW!
+
+- [Ancsa Hannak](http://ancsahannak.me/) and I are organizing a workshop at ICWSM'19 on Complex Systems approaches to algorithmic bias. Details forthcoming!
+
+<!--
+
 - Joined the CSE Department at the University at Buffalo!
-
-
 
 - I'll be at EMNLP in Denmark to present our paper on improving stance classification by improving annotation schemes. Check out a draft [here](papers/emnlp2017.pdf) and the replication materials [here](https://github.com/kennyjoseph/constance)!
 
@@ -37,7 +43,7 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Selected Publications, etc.
 
-For a full list, [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en) or the (likely slightly out of date) [CV](papers/cv.pdf).
+For a full and much more up to date list, [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en) or the (likely slightly out of date) [CV](papers/cv.pdf).
 
 ### Conference
 
