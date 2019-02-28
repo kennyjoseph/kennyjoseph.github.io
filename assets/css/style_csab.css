@@ -16,7 +16,8 @@ body {
 }
 
 p,
-ol {
+ol,
+ul {
     font-size: 20px;
 }
 
