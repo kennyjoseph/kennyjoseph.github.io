@@ -21,8 +21,8 @@ This seminar course will focus on giving students a broad understanding of state
 |2 | February 7 |  **Introduction - The Basics of NLP+CSS**  | Lazer et al. (2009). [*Life in the Network: the coming of age of computational social science*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/) <br> - O'Connor et al. (2011). [*Computational Text Analysis for Social Science: Model Assumptions and Complexity*](http://brenocon.com/oconnor+bamman+smith.nips2011css.text_analysis.pdf) | #intro|
 |3 | February 14 | Topic Models | - **<span style="color:red">Presenter: Krithika</span>**  Blei et al. (2003). *[Latent dirichlet allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)* <br> - **<span style="color:red">Presenter: Niharika</span>**  Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)* <br> - **<span style="color:red">Presenter: Yuhao</span>** Card et al. (2017). *[A Neural Framework for Generalized Topic Models](https://www.cs.cmu.edu/~dcard/resources/ACL_2018_paper.pdf)* <br> - **<span style="color:red">Presenter: Gokul</span>**  Wallach et al. (2009). *[Evaluation methods for topic models](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4587/MurrayI_Evaluation%20Methods%20for.pdf?sequence=1&isAllowed=y)* |#topicmodeling |
 |4 | February 21 | Word Vectors |  - **<span style="color:red">Presenter: Anish</span>** Mikolov et al. (2013). [*Efficient estimation of word representations in vector space*](https://arxiv.org/pdf/1301.3781.pdf) <br> - Pennington et al.(2014). [*Glove: Global vectors for word representation*](http://www.aclweb.org/anthology/D14-1162) <br> - Vilnis & McCallum (2014). [*Word representations via Gaussian embedding*](https://arxiv.org/pdf/1412.6623.pdf) <br> - **<span style="color:red">Presenter: Dipannita</span>** Levy et al. (2015). [*Improving distributional similarity with lessons learned from word embeddings*](https://www.transacl.org/ojs/index.php/tacl/article/view/570/124) <br> - **<span style="color:red">Presenter:Parth</span>** Peters et al. (2018). [*Deep contextualized word representations*](https://arxiv.org/pdf/1802.05365.pdf)  | #wordvectors|
-|5 | February 28 | Sentiment Analysis | - **<span style="color:red">Presenter: Sanjay</span>** Hutto & Gilbert (2014). *Vader: A parsimonious rule-based model for sentiment analysis of social media text* <br> - **<span style="color:red">Presenter: Yuhao</span>** Ahothali & Hoey (2015). *Good News or Bad News: Using Affect Control Theory to Analyze Readers’ Reaction Towards News Articles* <br> - **<span style="color:red">Presenter: Nishi</span>** Felbo et al. (2017). *Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm* <br> - Socher et al. (2013). *Recursive deep models for semantic compositionality over a sentiment treebank* | #sentimentstance|
-|6 | March 7 | Annotating Text | - **<span style="color:red">Presenter: Muhammad</span>** Berzak et al. (2016). *Anchoring and Agreement in Syntactic Annotations* <br> - **<span style="color:red">Presenter: Mengyang</span>** Passonneau & Carpenter (2014). *The benefits of a model of annotation* <br> - **<span style="color:red">Presenter: Shruti</span>** Snow et al. (2008). *Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks* | #annotation|
+|5 | February 28 | Sentiment Analysis | - **<span style="color:red">Presenter: Aamir</span>** Hutto & Gilbert (2014). [*Vader: A parsimonious rule-based model for sentiment analysis of social media text*](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8109/8122) <br> - **<span style="color:red">Presenter: Yuhao</span>** Ahothali & Hoey (2015). [*Good News or Bad News: Using Affect Control Theory to Analyze Readers’ Reaction Towards News Articles*](http://www.aclweb.org/anthology/N15-1178) <br> - **<span style="color:red">Presenter: Nishi</span>** Felbo et al. (2017). [*Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm*](http://www.aclweb.org/anthology/D17-1169) <br> - Socher et al. (2013). [*Recursive deep models for semantic compositionality over a sentiment treebank*](http://www.aclweb.org/anthology/D13-1170) | #sentimentstance|
+|6 | March 7 | Annotating Text | - **<span style="color:red">Presenter: Sanjar</span>** Berzak et al. (2016). [*Anchoring and Agreement in Syntactic Annotations*](http://www.aclweb.org/anthology/D16-1239) <br> - **<span style="color:red">Presenter: Mengyang</span>** Passonneau & Carpenter (2014). [*The benefits of a model of annotation*](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00185) <br> - **<span style="color:red">Presenter: Shruti</span>** Snow et al. (2008). [*Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks*](http://www.aclweb.org/anthology/D08-1027) | #annotation|
 |7 | March 14 | NLP, Social Media and the News | - **<span style="color:red">Presenter: Neeraj</span>** Flaxman et al. (2016). *Filter Bubbles, Echo Chambers, and Online News Consumption* <br> - **<span style="color:red">Presenter: Arjunil</span>** Schmidt et al. (2017). *Anatomy of news consumption on Facebook*  <br> - **<span style="color:red">Presenter: Chris</span>** Wihbey et al. (2018). *The social silos of journalism? Twitter, news media and partisan segregation* |#news|
 |8 | March 21 | **NO CLASS, Spring Break!** | | |
 |9 | March 28 |  Online Hate Speech | - **<span style="color:red">Presenter: Payraw</span>** Davidson et al. (2017). *Automated Hate Speech Detection and the Problem of Offensive Language* <br> - **<span style="color:red">Presenter: Pratik</span>** Olteanu et al. (2018). *The Effect of Extremist Violence on Hateful Speech Online* <br> - **<span style="color:red">Presenter: Krithika</span>** Waseem & Hovy (2016). *Hateful symbols or hateful people? predictive features for hate speech detection on twitter* |  #hatespeech |
@@ -46,7 +46,7 @@ You can take this seminar for either 1 credit or 3 credits. With 1 credit, your 
 
 # Grading
 
-The class will be graded out of 150 points.
+The class will be (and is required to be) graded pass/fail.
 
 Each weeks [readings](#readings) is graded on a seven point scale:
 - A [one to two paragraph response on Slack](#reading-responses-on-slack) to at least three readings (**1 point per reading**)
@@ -55,20 +55,21 @@ Each weeks [readings](#readings) is graded on a seven point scale:
 
 Important notes on weekly graded assignments:
 - **There are 12 weeks of reading assignments. I will grade out of a possible of 10 weeks for each sub-assignment. So responses are graded out of 30 points, comments out of 10, and attendence/participation out of 30.**
-- **Every class you miss after the first 2 will be a letter deduction from your grade (i.e. A to A-).**
 
 In addition, you will present two papers to the class. These presentations will be graded on an additional 15-points:
 - 12 minute presentation of the paper (guidelines below; **10 points**)
 - Taking part in leading the discussion of the paper in class (**5 points**)
 
-Students taking the course for 1 credit or as S/U must do the following to pass the course:
-- Get at least **100 points**
+Students taking the course for 1 credit must do the following to pass the course:
+- Get at least **80 points**
 - Actively participate in class discussions
 - Miss no more than two weeks of class unless explicit permission is granted by the instructor
 - Present two papers
 
 For students taking the course for three credits, an additional **80 points** are allocated to the [project](#project).
 
+Students taking the course for 3 credits must also **get at least 60 points on the project** in order to pass the course, and must submit something at every established deadline.
+<!-- 
 Final letter grades will be given according to how many points students obtain. Breakdowns (percentagewise):
 
 - A	[92.5,100]
@@ -78,7 +79,7 @@ Final letter grades will be given according to how many points students obtain. 
 - B-	[72.5,77.5)
 - C+	[67.5,72.5)
 - C	[62.5,67.5)
-- C-	[57.5,62.5)
+- C-	[57.5,62.5) -->
 
 # Reading and paper presentation details
 
