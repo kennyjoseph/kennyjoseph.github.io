@@ -69,17 +69,6 @@ Students taking the course for 1 credit must do the following to pass the course
 For students taking the course for three credits, an additional **80 points** are allocated to the [project](#project).
 
 Students taking the course for 3 credits must also **get at least 60 points on the project** in order to pass the course, and must submit something at every established deadline.
-<!-- 
-Final letter grades will be given according to how many points students obtain. Breakdowns (percentagewise):
-
-- A	[92.5,100]
-- A-	[87.5,92.5)
-- B+	[82.5,87.5)
-- B	[77.5,82.5)
-- B-	[72.5,77.5)
-- C+	[67.5,72.5)
-- C	[62.5,67.5)
-- C-	[57.5,62.5) -->
 
 # Reading and paper presentation details
 
