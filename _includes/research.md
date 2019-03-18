@@ -17,11 +17,13 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent-ish Stuff
 
+- Our work on measuring public opinion of Trump's tweets was accepted at [ICWSM](https://www.icwsm.org/2019/program/accepted-papers/)! Preprint coming soon, please email if you'd like a copy in the meantime!
+
 - [Our work](http://science.sciencemag.org/content/363/6425/374.abstract) on fake news, co-led by [Nir Grinberg](http://www.nirg.net/), [Lisa Friedland](https://lfriedl.github.io/) and I, was recently published in Science!  See some of the press coverage [here](https://t.co/0b9B0fsvtG) and [here](https://t.co/yzRKfO6UZv).
 
 - [Our work](https://doi.org/10.1145/3274417), led by [Ron Robertson](http://ronalderobertson.com) on biases (or lack thereof) in Google Searches received an honorable mention for Best Paper at CSCW!
 
-- [Ancsa Hannak](http://ancsahannak.me/) and I are organizing a workshop at ICWSM'19 on Complex Systems approaches to algorithmic bias. Details forthcoming!
+- [Ancsa Hannak](http://ancsahannak.me/) and I are organizing a workshop at ICWSM'19 on Complex Systems approaches to algorithmic bias. See [the website](https://kennyjoseph.github.io/csab19) and participate!
 
 <!--
 
@@ -46,6 +48,10 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 For a full and much more up to date list, [Google Scholar page](https://scholar.google.com/citations?user=TNS6P14AAAAJ&hl=en) or the (likely slightly out of date) [CV](papers/cv.pdf).
 
 ### Conference
+
+- Joseph, K., Swire-Thompson, B., Masuga, H., Baum, M. & Lazer, D.L. (2019) Polarized, Together: Comparing Partisan Support for Trump’s Tweets Using Survey and Platform-based Measures. ICWSM
+
+- Robertson, R. E., Jiang, S., **Joseph, K.**, Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing Partisan Audience Bias Within Google Search. Proc. ACM Hum.-Comput. Interact., 2(CSCW), 148:1–148:22. [https://doi.org/10.1145/3274417](paper)
 
 - **Joseph, K.**, Friedland, L., Hobbs, W., Lazar, D. & Tsur, O. (2017). Constance: Modeling Annotation Contexts to Improve Stance Classification. *EMNLP 2017*.  
 [draft pdf](papers/emnlp2017.pdf) | 
@@ -87,7 +93,9 @@ Selected coverage: [ChicagoInno](http://chicagoinno.streetwise.co/2015/09/01/can
 
 ### Journal 
 
-- Benigni, M., **Joseph, K.,** Carley, K.M. (forthcoming). Covert Network Detection in Social Media: Uncovering the ISIS Supporting Network on Twitter. *PLOS One*.
+- Grinberg, N.^, **Joseph, K.^**, Friedland, L.^, Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 U.S. presidential election. Science, 363(6425), 374–378. (^= Equal contribution) [link to paper](https://doi.org/10.1126/science.aau2706)
+
+- Benigni, M., **Joseph, K.,** Carley, K.M. (2018). Covert Network Detection in Social Media: Uncovering the ISIS Supporting Network on Twitter. *PLOS One*.
 
 - **Joseph, K.**, Wei, W., Benigni, M., & Carley, K. M. (2016). A social-event based approach to sentiment analysis of identities and behaviors in text. *The Journal of Mathematical Sociology*.  
 [draft pdf](papers/jms.pdf) | 
