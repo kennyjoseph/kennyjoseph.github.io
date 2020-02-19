@@ -164,8 +164,8 @@ The final project in the class involves replicating and extending a published pa
 
 There will be a series of deadlines for the projects throughout the semester. All submissions for the dates below should be emailed to me (except for the in person meeting and the presentation, obviously). Again, make sure to prefix the subject of the email with [CSE702].  All submissions are due before 11:59PM on the date listed:
 
-- **February 10th** - Email me with the names of the members of your team, and your team name (5 points)
-- **February 19th** - Meet with the professor to finalize project idea with the professor (I will send out a doodle to get everyone scheduled). Come to the meeting prepared with at least 2 potential project ideas. (5)
+- **February 19th** - Email me with the names of the members of your team, and your team name (5 points)
+- **March 3rd** - Meet with the professor to finalize project idea with the professor (I will send out a doodle to get everyone scheduled). (5)
 - **March 11th** - [Project proposal](#project-proposal) (15)
 - **April 1st** - Check-in with professor about ongoing progress of replication and extension effort. (5)
 - **April 22nd** - Check-in with professor about ongoing progress of replication and extension effort, showing movement from where you were three weeks prior (10)
