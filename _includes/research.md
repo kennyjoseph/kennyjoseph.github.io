@@ -1,12 +1,14 @@
 # About Me
  
-I am an assistant professor in the [CSE](https://www.cse.buffalo.edu/) Department at the University at Buffalo.  
+I am an assistant professor in the [CSE](https://www.cse.buffalo.edu/) Department at the University at Buffalo. At UB, I mostly work with folks in the [Computing for Social Good](https://c4sg.cse.buffalo.edu/) group. 
 
-<!--<span style="color:red"> I am currently looking for graduate students to work with.  If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science. -->
+<span style="color:red"> I am, unfortunately, not currently looking for students to work with. I apologize, and hope this will change in the future. However, as such, I cannot promise that I will be able to quickly respond to requests for opportunities to work together. </span> 
+
+<!-- If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science.-->
 
 In the past, I was a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
 
-My research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their interrelationships with sociocultural structure. In my work, I leverage a variety of machine learning/NLP methods, agent-based modeling strategies and socio-cognitive theories.
+My research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their interrelationships with sociocultural structure and behavior. In my work, I leverage a variety of machine learning/NLP methods, agent-based modeling strategies and socio-cognitive theories.
 
 Finally, for those who don't want to click the buttons on the left, my info below:
 
@@ -17,6 +19,11 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 
 # Recent-ish Stuff
 
+I have given up trying to keep this section up to date. For my most recent publications, please check out [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=TNS6P14AAAAJ&view_op=list_works&sortby=pubdate). I also post most of the interesting things going on (that is, I fawn over the great work of my students) [on Twitter](https://www.twitter.com/_kenny_joseph).
+
+<!--
+
+
 - Our work on measuring public opinion of Trump's tweets was accepted at [ICWSM](https://www.icwsm.org/2019/program/accepted-papers/)! Preprint coming soon, please email if you'd like a copy in the meantime!
 
 - [Our work](http://science.sciencemag.org/content/363/6425/374.abstract) on fake news, co-led by [Nir Grinberg](http://www.nirg.net/), [Lisa Friedland](https://lfriedl.github.io/) and I, was recently published in Science!  See some of the press coverage [here](https://t.co/0b9B0fsvtG) and [here](https://t.co/yzRKfO6UZv).
@@ -24,8 +31,6 @@ Finally, for those who don't want to click the buttons on the left, my info belo
 - [Our work](https://doi.org/10.1145/3274417), led by [Ron Robertson](http://ronalderobertson.com) on biases (or lack thereof) in Google Searches received an honorable mention for Best Paper at CSCW!
 
 - [Ancsa Hannak](http://ancsahannak.me/) and I are organizing a workshop at ICWSM'19 on Complex Systems approaches to algorithmic bias. See [the website](https://kennyjoseph.github.io/csab19) and participate!
-
-<!--
 
 - Joined the CSE Department at the University at Buffalo!
 

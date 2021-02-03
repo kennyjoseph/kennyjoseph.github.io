@@ -1,11 +1,11 @@
-# CSE 702 - Applied Natural Language Processing and Computational Social Science
+# CSE 704 - Applied Natural Language Processing and Computational Social Science
 
 # Details
 
-- Time: Wednesdays, 3:00-5:00 PM
-- Location: Alumni 90
+- Time: Wednesdays, 10:25-12:30 PM
+- Location:  Zoom :(
 
-- Office Hours: 335 Davis Hall, 1:00-3:00 PM on Wednesdays, or by appointment
+- Office Hours: Virtual, by appointment
 
 - Communication via email: **Please prefix all emails to me with [CSE702] in the subject so I can respond in a timely manner**.
 
@@ -17,23 +17,22 @@ This seminar course will focus on giving students a broad understanding of state
 
 | Week | Date | Theme | Papers | Slack Channel |
 | :---- | :-----: | :-----: | :--------- | :----------: |
-|1 | January 29 | **NO CLASS KENNY IS OUT OF TOWN**| | |
-|2 | February 5 |  **Introduction - NLP&CSS**  | - Lazer et al. (2009). [*Life in the Network: the coming of age of computational social science*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/) <br> - O'Connor et al. (2011). [*Computational Text Analysis for Social Science: Model Assumptions and Complexity*](http://brenocon.com/oconnor+bamman+smith.nips2011css.text_analysis.pdf)<br> - **WATCH:** [*Kate Crawford's NIPS 2017 Keynote*](https://www.youtube.com/watch?v=fMym_BKWQzk) | #intro |
-|3 | February 12 | **Some Recent Examples of CSS** | - **<span style="color:red">Presenter: Nikhil </span>**  Rajadesingan et al. (2019). *[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwinrajadesingan.com/files/camera_ready_icwsm.pdf)*<br>  -  Cranshaw et al. (2012). *[The Livehoods Project: Utilizing Social Media to Understand the Dynamics of a City]()*<br>  - **<span style="color:red">Presenter: Sasha </span>**  Danescu-Niculescu-Mizil et al. (2013). *[No country for old members: User lifecycle and linguistic change in online communities](http://www.mpi-sws.org/~cristian/Linguistic_change_files/lifecylce_linguistic_change.pdf)*<br>  - Yardi and boyd (2010). *[Dynamic Debates: An Analysis of Group Polarization Over Time on Twitter](https://doi.org/10.1177/0270467610380011)* | #css_examples |
-|4 | February 19 | **Topic Models** | - **<span style="color:red">Presenter: Ravi </span>**  Blei et al. (2003). *[Latent dirichlet allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)*<br>  - Roberts et al. (2014). *[The Structural Topic Model and Applied Social Science](https://mimno.infosci.cornell.edu/nips2013ws/slides/stm.pdf)*<br>  - **<span style="color:red">Presenter: Ethiraj </span>**  Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)*<br>  -  Wallach et al. (2009). *[Evaluation methods for topic models](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4587/MurrayI_Evaluation%20Methods%20for.pdf?sequence=1&isAllowed=y)*| #topicmodeling|
-|5 | February 26 | **Topic Modeling Case Studies** | - **<span style="color:red">Presenter: Lucas </span>**  Demszky et al. (2019). *[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/abs/1904.01596)*<br>  - **<span style="color:red">Presenter: Sasha </span>**  Farrell. (2019).  *[Corporate funding and ideological polarization about climate change](https://www.pnas.org/content/pnas/113/1/92.full.pdf)*.<br>  -  Joseph et al. (2014). *[Check-ins in “Blau Space”: Applying Blau’s Macrosociological Theory to Foursquare Check-ins from New York City](https://dl.acm.org/doi/10.1145/2566617)* | #tm_cases|
-|6 | March 4 | **Word Vectors** | - **<span style="color:blue">Read this one first::: </span>** Smith. (2019). *[Contextual Word Representations: A Contextual Introduction](http://arxiv.org/abs/1902.06006)*<br>  -  Pennington et al.(2014). *[Glove: Global vectors for word representation](http://www.aclweb.org/anthology/D14-1162)*<br>  - **<span style="color:red">Presenter: Rabiraj </span>**  Levy et al. (2015). *[Improving distributional similarity with lessons learned from word embeddings](https://www.transacl.org/ojs/index.php/tacl/article/view/570/124)*<br>  - **<span style="color:red">Presenter: Nikhil </span>**  Devlin et al. (2018). *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)*<br>  -  Liu et al. (2019). *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)* | #wordvectors|
-|7 | March 11 | **How DL Changed NLP** | -  Hutto & Gilbert (2014). [*Vader: A parsimonious rule-based model for sentiment analysis of social media text*](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8109/8122) <br>  - **<span style="color:red">Presenter: Krithika </span>**  Felbo et al. (2017). [*Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm*](http://www.aclweb.org/anthology/D17-1169) <br>   - **<span style="color:red">Presenter: Jie </span>**  Card et al. (2017). *[A Neural Framework for Generalized Topic Models](https://www.cs.cmu.edu/~dcard/resources/ACL_2018_paper.pdf)* |#dl_and_nlp|
-|8 | March 18 | **NO CLASS, Spring Break!** | | |
-|9 | March 25 | **Application: Language Change** | - **<span style="color:red">Presenter: Ethiraj </span>**  Garg et al. (2018). *[Word embeddings quantify 100 years of gender and ethnic stereotypes](https://doi.org/10.1073/pnas.1720347115)*<br>  - **<span style="color:red">Presenter: Vishva </span>**  Hamilton, et al. (2016). *[Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change.](http://arxiv.org/abs/1605.09096)*<br>  -  Soni et al. (2019). *[Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations](https://arxiv.org/abs/1909.04189)*<br>  -  Rudolph, M., & Blei, D. (2018). *[Dynamic Embeddings for Language Evolution. Proceedings of the 2018 World Wide Web Conference, 1003–1011](https://doi.org/10.1145/3178876.3185999)* |  #langchange |
-|10| April 1 |  **"Bias" in Word Embeddings** | -  Bolukbasi et al. (2016). *[Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)*<br>  - **<span style="color:red">Presenter: Lucas </span>**  De-Arteaga et al. (2019). *[Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting](https://arxiv.org/pdf/1901.09451.pdf)*<br>  -  Zhao et al. (2019). *[Gender Bias in Contextualized Word Embeddings](https://arxiv.org/abs/1904.03310)*<br>  -  Ethayarajh et al. (2019). *[Understanding Undesirable Word Embedding Associations](https://www.aclweb.org/anthology/P19-1166/)*<br>  - **<span style="color:red">Presenter: Yash </span>**  Gonen and Goldberg. (2019). *[Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://arxiv.org/abs/1903.03862)* | #bias|
-|11| April 8 | **Collecting Data** | - **<span style="color:red">Presenter: Zijian </span>**  Snow et al. (2008). *[Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks](http://www.aclweb.org/anthology/D08-1027)*<br>  - **<span style="color:red">Presenter: Anirudh </span>**  Tufekci (2014). *[Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls](https://arxiv.org/abs/1403.7400)*<br>  - Bivens, R. (2017). *[The gender binary will not be deprogrammed: Ten years of coding gender on Facebook](https://doi.org/10.1177/1461444815621527)*<br>  - **<span style="color:blue">If you're interested (awesome, but really long) ::: </span>** Olteanu et al. (2019). *[Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)* |#databias|
-|12| April 15 | **The People Behind the Data** | - **<span style="color:red">Presenter: Rabiraj </span>**  Marwick, A. E., & Boyd, D. (2011). *[I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience](https://doi.org/10.1177/1461444810365313)* <br>  - **<span style="color:red">Presenter: Jie </span>**  Ernala et al. (2019) *[Methodological gaps in predicting mental health states from social media: Triangulating diagnostic signals](http://www.munmund.net/pubs/CHI19_MethodGaps.pdf)*<br>  -  Irani and Silberman. (2015). *[Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](https://escholarship.org/content/qt10c125z3/qt10c125z3.pdf])* | #people|
-|13| April 22 | **Bias in a Bigger Setting** | -  Obermeyer et al. (2019). *[Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)*<br>  - **<span style="color:red">Presenter: Ravi </span>**  Chouldechova. (2017). *[Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/abs/10.1089/big.2016.0047)*<br>  -  Ensign et al. (2017). *[Runaway Feedback Loops in Predictive Policing](http://arxiv.org/abs/1706.09847)*<br>  - **<span style="color:red">Presenter: Vishva </span>**  Bokányi & Hannák (2019). *[Ride-share matching algorithms generate income inequality](http://arxiv.org/abs/1905.12535)*<br>  | #big_bias |
-|14| April 29 | **What Should We Do?** |  - **<span style="color:red">Presenter: Yash </span>**  Hutchinson and Mitchell. (2019). *[50 Years of Test (Un)fairness: Lessons for Machine Learning](http://arxiv.org/abs/1811.10104)*<br>  -  Ribeiro et al. (2016). *[“Why Should I Trust You?”: Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938)*<br>  - **<span style="color:red">Presenter: Krithika </span>**  Brown et al. (2019). *[Toward Algorithmic Accountability in Public Services](https://dl.acm.org/doi/pdf/10.1145/3290605.3300271?download=true)*<br>  -  Chan et al. (2018). *[Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks](https://dl.acm.org/doi/10.1145/3278721.3278757)*| #bias_fixin|
-|15| May 6 | **Does it Work?**  | -  Hoffmann. (2019). *[Where fairness fails: On data, algorithms, and the limits of antidiscrimination discourse](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1573912?journalCode=rics20)*<br>  - **<span style="color:red">Presenter: Zijian </span>**  Green and Chen. (2019). *[Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments](https://scholar.harvard.edu/files/19-fat.pdf)*<br>  - **<span style="color:red">Presenter: Anirudh </span>**  Lipton (2016). [The mythos of model interpretability](https://arxiv.org/abs/1606.03490)<br>  -  Hanna et al. (2019). *[Towards a Critical Race Methodology in Algorithmic Fairness](https://arxiv.org/abs/1912.04883)* |#fixin_failin|
-| | May 8 | **DEMO DAY - POSTER PRESENTATIONS** | |#project|
+|1 | February 3 | **Introduction - NLP&CSS**  | | #intro |
+|2 | February 10 | **Examples 1** | - Abebe et al. (2020). *[Quantifying Community Characteristics of Maternal Mortality Using Social Media](https://www.cs.cornell.edu/~red/AbebeMaternalMortality.pdf)* <br> - Rajadesingan et al. (2019). *[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwinrajadesingan.com/files/camera_ready_icwsm.pdf)* <br> -  Cranshaw et al. (2012). *[The Livehoods Project: Utilizing Social Media to Understand the Dynamics of a City]()*  | #css_examples_1 |
+|3 | February 17 | **Examples 2** | - Jones et al. (2020). *[Behind the Mask: A Computational Study of Anonymous’ Presence on Twitter](https://ojs.aaai.org//index.php/ICWSM/article/view/7303/7157). <br> - Zhang and Danescu-Niculescu-Mizi. (2020). *[Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards](https://www.cs.cornell.edu/~cristian/Orientation_files/orientation-forwards-backwards.pdf)* <br> - Antoniak et al. (2019). *[Narrative Paths and Negotiation of Power in Birth Stories](https://dl.acm.org/doi/pdf/10.1145/3359190)* | #css_examples_2 |
+|4 | February 24 |  **Data Collection** | - Marwick and boyd. (2011). *[I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience](https://doi.org/10.1177/1461444810365313)* <br>  -   Ernala et al. (2019) *[Methodological gaps in predicting mental health states from social media: Triangulating diagnostic signals](http://www.munmund.net/pubs/CHI19_MethodGaps.pdf)* <br>  -  Irani and Silberman. (2015). *[Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](https://escholarship.org/content/qt10c125z3/qt10c125z3.pdf])* <br> - Baumgartner et al. (2020) *[The pushshift reddit dataset](https://ojs.aaai.org/index.php/ICWSM/article/download/7347/7201/)* <br> - Pfeffer et al (2018). *[Tampering with Twitter’s sample API](https://link.springer.com/content/pdf/10.1140/epjds/s13688-018-0178-0.pdf)* <br> -   Tufekci (2014). *[Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls](https://arxiv.org/abs/1403.7400)* | #data |
+|5 | March 3 | **Annotation** | -   Snow et al. (2008). *[Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks](http://www.aclweb.org/anthology/D08-1027)*   <br> - Geiger et al. (2020). *[Garbage In, Garbage Out? Do Machine Learning Application Papers in Social Computing Report Where Human-Labeled Training Data Comes From?](https://arxiv.org/abs/1912.08320)* <br> - Pavlick and Kwiatkowski. (2019). *[Inherent Disagreements in Human Textual Inferences](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00293)* <br> - Paun et al. (2018). *[Comparing Bayesian Models of Annotation](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00040)*|#annotation| 
+|6 | March 10 |  **Modern NLP 1** | - **<span style="color:blue">Read this one first::: </span>** Smith. (2019). *[Contextual Word Representations: A Contextual Introduction](http://arxiv.org/abs/1902.06006)* <br>  -  Pennington et al.(2014). *[Glove: Global vectors for word representation](http://www.aclweb.org/anthology/D14-1162)* <br> - Mikolov et al. (2013). [*Efficient estimation of word representations in vector space*](https://arxiv.org/pdf/1301.3781.pdf) <br> - Levy et al. (2015). *[Improving distributional similarity with lessons learned from word embeddings](https://www.transacl.org/ojs/index.php/tacl/article/view/570/124)* | #modernnlp_1|
+|7 | March 17 |  **Modern NLP 2** | - Vaswani et al. (2017). *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* <br> -  Devlin et al. (2018). *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)* <br>  -  Liu et al. (2019). *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)*  <br> - de Vries et al. (2020). *[What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)* | #modernnlp|
+|8 | March 24 |   **Topic Models** | - Blei. (2012) *[Probabilistic topic models](https://oar.princeton.edu/bitstream/88435/pr1bv3w/1/OA_IntroductionProbabilisticTopicModels.pdf)* <br>  - Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)*  <br> - Rudolph and Blei. (2018). [Dynamic Embeddings for Language Evolution](https://pdfs.semanticscholar.org/c4e7/2c764266d85ce0ade71fa812bda43bdd6437.pdf) <br> - Demszky et al. (2019). *[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/abs/1904.01596)* <br> | #topicmodeling|
+|9| March 31 |   **Sentiment** | - Hutto & Gilbert (2014). [*Vader: A parsimonious rule-based model for sentiment analysis of social media text*](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8109/8122) <br> - Felbo et al. (2017). [*Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm*](http://www.aclweb.org/anthology/D17-1169) <br> - Xu et al. (2019). *[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)* | #sentiment|
+|10| April 7 |    **Stance** | - Sen et al. (2020). *[On the Reliability and Validity of Detecting Approval of Political Actors in Tweets](https://www.aclweb.org/anthology/2020.emnlp-main.110.pdf)* <br> - Aldayel and Magdy (2019). *[Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media](https://arxiv.org/pdf/1908.03146.pdf)* <br> - Darwish et al. (2020). *[Unsupervised User Stance Detection on Twitter](https://ojs.aaai.org/index.php/ICWSM/article/view/7286)* | #stance|
+|11| April 14 | **Bias NLP 1** | -  Bolukbasi et al. (2016). *[Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)* <br>  -   De-Arteaga et al. (2019). *[Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting](https://arxiv.org/pdf/1901.09451.pdf)* <br>  -  Ethayarajh et al. (2019). *[Understanding Undesirable Word Embedding Associations](https://www.aclweb.org/anthology/P19-1166/)* <br>  -   Gonen and Goldberg. (2019). *[Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://arxiv.org/abs/1903.03862)* | #bias1|
+|12| April 21 | **Bias in NLP 2** | - Bender et al. (2021). *[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)* <br> - Rudinger et al. (2018). *[Gender Bias in Coreference Resolution](https://arxiv.org/abs/1804.09301)*. <br> - Blodgett et al. (2020). *[Language (Technology) is Power: A Critical Survey of" Bias" in NLP](https://arxiv.org/pdf/2005.14050.pdf)*. <br> -  Zhao et al. (2019). *[Gender Bias in Contextualized Word Embeddings](https://arxiv.org/abs/1904.03310)*   | #bias2 |
+|13| April 28 |  **Syncing w/ Qualitative Research** | - Eads et al. (2020). *[Separating the wheat from the chaff: A topic- and keyword-based procedure for identifying research-relevant text]()*. <br> - Muller et al. (2016). *[Machine Learning and Grounded Theory Method: Convergence, Divergence, and Combination](https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/3483/files/2017/02/Muller2016-Machine-2bp3h65.pdf)* <br> - Patton et al. (2020). *[Contextual Analysis of Social Media: The Promise and Challenge of Eliciting Context in Social Media Posts with Natural Language Processing](https://safelab.socialwork.columbia.edu/sites/default/files/2020-03/CASM.pdf)* | #qualitative |
+|14| May 5 |  **Bias beyond NLP** | -  Obermeyer et al. (2019). *[Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)* <br>  -   Chouldechova. (2017). *[Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/abs/10.1089/big.2016.0047)* <br>  -  Ensign et al. (2017). *[Runaway Feedback Loops in Predictive Policing](http://arxiv.org/abs/1706.09847)* <br>  -   Bokányi & Hannák (2019). *[Ride-share matching algorithms generate income inequality](http://arxiv.org/abs/1905.12535)* <br>  | #big_bias |
 | | May 15 | **FINAL PROJECTS DUE** | |#project|
+
 
 
 # Prerequisites
@@ -50,7 +49,7 @@ The class will be (and is required to be) graded pass/fail.
 
 ## Attendance Policy 
 
-**Missing more than two scheduled course meetings will result in a failing grade**. The only condition under which the student can still pass the course if they miss more than two scheduled meetings is if **all but one** absence is documented with the instructor and due to the following reasons (from [UB's official policy](https://catalog.buffalo.edu/policies/attendance.html)):
+**Missing more than three scheduled course meetings will result in a failing grade**. The only condition under which the student can still pass the course if they miss more than three scheduled meetings is if **all but one** absence is documented with the instructor and due to the following reasons (from [UB's official policy](https://catalog.buffalo.edu/policies/attendance.html)):
 - military obligations
 - religious observances
 - illness documented by a physician or other appropriate health care professional
@@ -58,7 +57,10 @@ The class will be (and is required to be) graded pass/fail.
 - public emergencies
 - documented personal or family emergencies
 
-Please note that I *do not need a reason for missing class if you miss two or less*. That is, as long as you don't miss more than two classes, you can be absent for any reason. Note, however, that you will not receive credit for attendance on those days **unless documentation is provided for one of the reasons above**.
+**Consistently being more than 5 minutes late to class will result in me counting you as absent**. Specifically, every three times that you are more than 5 minutes late will be counted as a missed class. **There are no exceptions to this policy**. 
+
+Please note that I *do not need a reason for missing class if you miss three or less*. That is, as long as you don't miss more than three classes, you can be absent for any reason. Note, however, that you will not receive credit for attendance on those days **unless documentation is provided for one of the reasons above**.
+
 
 ## Readings, Participation, and Presentations
 
@@ -68,7 +70,7 @@ Each week, [readings](#readings) are graded on a seven point scale:
 - Attendence at and [active participation](#class-participation) in class, which includes the ability to discuss up to 3 papers for that week (**3 points**)
 
 Important notes on weekly graded assignments:
-- **There are 12 weeks of reading assignments. I will grade out of a possible of 10 weeks for each sub-assignment. So responses are graded out of 30 points, comments out of 10, and attendence/participation out of 30.**
+- **There are 12 weeks of reading assignments. I will grade out of a possible of 10 weeks for each sub-assignment. So responses are graded out of 30 points, comments out of 10, and attendence/participation out of 30.** Note, then, that the grading of responses is **separate** from 
 
 In addition, you will present two papers to the class. These presentations will be graded on an additional 15-points:
 - 12 minute presentation of the paper (guidelines below; **10 points**)
@@ -96,12 +98,9 @@ Students are expected to actively participate in discussion of all papers for wh
 
 ## Reading Responses on Slack
 
-All responses to readings must be put onto Slack by **Tuesday at 11:59PM**, onto the slack channel for that week's readings.  Responses submitted after this time or to a different channel will not be accepted.
+All responses to readings must be put onto Slack by **Tuesday at 8:00PM**, onto the slack channel for that week's readings.  Responses submitted after this time or to a different channel will not be accepted.
 
-Responses to readings should have 1) a (roughly) 4-6 sentence summary of the main points of the paper and 2) a second paragraph on something particularly interesting or worrying or useful that you yourself got from the paper.  
-
-**Before these two paragraphs, state the paper you are responding to in bold.  See the #intro channel for example responses**.
-
+Responses to readings should have two paragraphs  **Before these two paragraphs, state the paper you are responding to in bold.  See the #intro channel for example responses**.
 The first paragraph might choose to address some of the following questions, but should not feel inclined to simply answer only or all these questions:
 
 - What is the main point of the paper?
@@ -158,59 +157,82 @@ Additionally, the first slide should contain:
 
 # Project Details
 
-***Disclaimer: I stole this project idea, and consequently a decent portion of the text below, directly from [Prof. Jacob Eisenstein](https://github.com/jacobeisenstein/gt-css-class/blob/master/grading.md).*** 
+The final project in the class will involve running through the standard NLP+CSS pipeline:
+ 1. Select a question
+ 2. Collect some (social media) data
+ 3. Annotate some of that data
+ 4. Apply a machine learning model to the data
+ 5. Analyze the quality of model predictions
+ 6. Use the model to draw some substantitive conclusions. 
+ 
+ This project is to be performed in teams of *2* students, although as you will see, there will be opportunities for larger collaboration. If there is an odd number of students, I will allow one group of three students.
+ 
 
-The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of *2* students, and the paper must be approved by the professor before the submission of the formal proposal. A list of recommended papers can be found [here](*). You can also suggest your own, although it should be comparable to those on this list.  If there is an odd number of students, I will allow one group of three students.
 
-There will be a series of deadlines for the projects throughout the semester. All submissions for the dates below should be emailed to me (except for the in person meeting and the presentation, obviously). Again, make sure to prefix the subject of the email with [CSE702].  All submissions are due before 11:59PM on the date listed:
+There will be a series of deadlines for the projects throughout the semester; namely, I will make sure that you have completed each of these six steps at various points throughout the semester. For these deadlines:
 
-- **February 19th** - Email me with the names of the members of your team, and your team name (5 points)
-- **March 3rd** - Meet with the professor to finalize project idea with the professor (I will send out a doodle to get everyone scheduled). (5)
-- **March 11th** - [Project proposal](#project-proposal) (15)
-- **April 1st** - Check-in with professor about ongoing progress of replication and extension effort. (5)
-- **April 22nd** - Check-in with professor about ongoing progress of replication and extension effort, showing movement from where you were three weeks prior (10)
-- **May 9th** - [Poster presentations](#poster-presentations) (20)
-- **May 14th** - [Final project reports due](#final-reports) (20)
+- All submissions should be sent to me **via Slack** (except for the in person meeting and the presentation, obviously).
+- All submissions are due by 11:59PM on the date listed
+- We will have follow-up meetings for some teams, if so, those will be during class time
+- All reports should be formatted should be submitted as a PDF with a specific formatting: you can use either the [AAAI overleaf template](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp) or use the Word template in [this Google Doc](https://drive.google.com/file/d/1rox9tHLZkG6r_sxcG6rdRi-51ik8VkaI/view?usp=sharing). Either way, we will use Overleaf or Google Docs!
 
-## Project Proposal
+## Project Deadlines 
+- **February 10th** - Slack me with the names of the members of your team, and your team name (5 points)
+- **February 17th** - Meet with Kenny (this will be during class time) to finalize the research question (5)
+- **March 3rd** - [Data Collection Report](#data-collection-reports) (15)
+- **March 17th** - [Annotation Report](#annotation-reports) (15)
+- **April 21nd** - [Almost Final Report](#almost-final-reports) (25)
+- **May 9th** - [Optional poster presentations](#poster-presentations) (+10 Bonus)
+- **May 14th** - [Final project reports due](#final-reports) (35)
 
-One team member should submit the proposal for the entire team.  If you submit in LaTex, please send along the source so I can provide comments in a shared overleaf document. The proposal should indicate:
+## Data Collection Reports
 
-- The names of team members 
-- What paper you plan to replicate (full citation) and why
-- A summary of the key elements/main findings of the paper:
-	- from a social science perspective (i.e. what theoretical approach was taken? Were there hypotheses presented? What new social science knowledge was produced, if any?)
-	- from a computational perspective (i.e. some details about the methods and data - was it novel?)
-- Details on how you plan to validate the paper:
-	- Data: what you need, and where you can get it?
-	- Methods: what computational techniques do you plan to employ, and how will you do it? Will you write your own code? Is there a software library you can use?
-	- Metrics: how will you know if you have succeeded in replicating the paper? Be as specific as possible. If the paper has multiple findings, indicate how you will test that you have replicated each one.
-	- Risks: What might go wrong that would cause this project to fail? What can you do to ameliorate these risks, and what will you do in this worst-case scenario?
-	- Limits: are there findings that you will not be able to replicate? If so, explain why the parts that you can replicate are interesting enough on their own.
-- Who is doing what - a task breakdown by individual on the team
-- Stretch goals: If the main findings of the paper are relatively easy to replicate given the data and resources that are available to you (something we will discuss together), how do you plan to go further, making an original contribution of your own? 
+The data collection report should be at most 2 pages long (using the specified format). It should include:
+- A description of your research question
+- Details on the source of your data (e.g. the Twitter API)
+- (Brief) technical details on how you are collecting the data
+- The current status of your collection (e.g. how many tweets/posts, is it on-going)
 
-## Final Report
 
-Your final report should be submitted as a PDF and be no longer than ten pages in AAAI format. For this, you can use either the [AAAI overleaf template](https://www.aaai.org/Publications/Author/author.php) or take the Word or Latex file from [here](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp).
+## Annotation Reports
 
-The format of your report can be loosely aligned with that of the typical research papers we have read, i.e. it will likely have the at least the following sections:
+The annotation report should be at most 3 pages long (using the specified format). It should include:
 
-- Introduction - This section should explain the objective of your project - what were you trying to do (or, if you're doing a pure replication, what was the original paper trying to do)?  It should also explain why that objective is important - why do you want to carry out this research, how would it move our understanding of the social world forward?
+- A link to your data collection report
+- A description of how many posts you plan to annotate, who you will have annotate them, and how long you expect the annotation task to take
+- A description of how you will evaluate the quality of the annotations
+- A description of what you will do if the annotations are of low quality (e.g. redo, get more annotations, change the task, etc.)
 
-- Background Section - This section will provide a literature review that would be appropriate for a conference paper, and should include works covered in class that are relevant to your research question. If you're doing a pure replication, don't just copy/paste their reference section; think critically about what other work you've learned about might be related here!
+## Almost Final Reports
+
+The Almost Final Report should be at most 4 pages long. It should include: 
+
+- A description of your research question
+- A description of the final dataset you have collected
+- The results of your annotation task
+- Evidence that you have built and applied the model you have selected to your data. 
+
+## Final Reports
+
+The format of your final report can be loosely aligned with that of the typical research papers we have read, i.e. it will likely have the at least the following sections:
+
+- Introduction - This section should explain the objective of your project - what were you trying to do?  It should also explain why that objective is important - why do you want to carry out this research, how would it move our understanding of the social world forward?
+
+- Background Section - This section will provide a literature review that would be appropriate for a conference paper, and should include works covered in class that are relevant to your research question. You should also include at least 1 reference to your specific project; Kenny will help you identify that!
 
 - Data description - How did you collect this data? What are the strengths and weaknesses of it? How does the data that you have to analyze compare to the data in the paper you're replicating?
 
-- Methodology - What was the approach you took to analyze the data. How did this approach compare to the original paper? Was it the same? If so, how can you be sure? If not, what's different, and why? Explain the methods here as if you were providing details of your approach to someone who does not know the intimate details of the original paper.
+- Methodology - What was the approach you took to analyze the data. How did this approach compare to the original paper? Was it the same?
+
+- Annotation and Model Results - How did your annotation process go? What worked, what didn't? Be honest here, no need to skim over details. If things failed miserably, so be it, but I want to hear about it! Then, look at the results of your model!
 
 - Results – Provide the results of your analysis, and compare them to the results of the original paper.  If the replication did not succeed, try to explain why not. Were you lacking key information from the original authors? Were you unable to obtain the same data? If the replication did succeed, try to explain the limitations of your replication: would it work on other data? Does it rely on the method being implemented in exactly the same way as the original authors did?
 
 - Conclusion - What did you learn - about computational social science, replication, and the original paper? What other important things did you glean from your analyses that may not have been noted in the original paper (especially if you carried out an extension of it)?
 
-## Poster Presentation
+## Poster Presentations
 
-All teams will present posters at the [CSE Demo Day](https://odin.cse.buffalo.edu/demoday). You will have worked hard on this project, and I want you to show that work off!
+All teams will have the option to present posters at the [CSE Demo Day](https://odin.cse.buffalo.edu/demoday). You will have worked hard on this project, and I want you to show that work off! But, this is a bonus, and is hence optional and those who participate will be awarded bonus points. 
 
 # In progress list of miscellaneous related resources
 
@@ -228,9 +250,10 @@ All teams will present posters at the [CSE Demo Day](https://odin.cse.buffalo.ed
 - [Chenhao Tan: Reading group on social aspects of language](https://chenhaot.com/courses/reading-group-on-social-aspects-of-language.html)
 - [Chenhao Tan: Human Centered Maching Learning (S20)](https://github.com/BoulderDS/human-centered-machine-learning)
 - [Justin Grimmer: Text as Data Syllabus](http://stanford.edu/~jgrimmer/Text14/textsyll.pdf)
+- [Chris Bail: Data Science and Society](https://dssoc.github.io/schedule/)
 
 ## Books:
-
+- [Dirk Hovy's NLP Book](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3)
 - [Bit by bit: Social Research in the Digital Age](https://www.bitbybitbook.com/)
 - [Natural Langauge Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)

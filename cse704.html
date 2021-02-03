@@ -1,0 +1,11 @@
+---
+layout: no_sidebar
+tagline:
+---
+
+<div class="home_class">
+
+{% capture my_include %}{% include class.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</div>
