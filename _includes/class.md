@@ -23,7 +23,7 @@ This seminar course will focus on giving students a broad understanding of state
 |4 | February 24 |  **Data Collection** | - Marwick and boyd. (2011). *[I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience](https://doi.org/10.1177/1461444810365313)* <br>  -   Ernala et al. (2019) *[Methodological gaps in predicting mental health states from social media: Triangulating diagnostic signals](http://www.munmund.net/pubs/CHI19_MethodGaps.pdf)* <br>  -  Irani and Silberman. (2015). *[Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](https://escholarship.org/content/qt10c125z3/qt10c125z3.pdf])* <br> - Baumgartner et al. (2020) *[The pushshift reddit dataset](https://ojs.aaai.org/index.php/ICWSM/article/download/7347/7201/)* <br> - Pfeffer et al (2018). *[Tampering with Twitter’s sample API](https://link.springer.com/content/pdf/10.1140/epjds/s13688-018-0178-0.pdf)* <br> -   Tufekci (2014). *[Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls](https://arxiv.org/abs/1403.7400)* | #data |
 |5 | March 3 | **Annotation** | -   Snow et al. (2008). *[Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks](http://www.aclweb.org/anthology/D08-1027)*   <br> - Geiger et al. (2020). *[Garbage In, Garbage Out? Do Machine Learning Application Papers in Social Computing Report Where Human-Labeled Training Data Comes From?](https://arxiv.org/abs/1912.08320)* <br> - Pavlick and Kwiatkowski. (2019). *[Inherent Disagreements in Human Textual Inferences](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00293)* <br> - Paun et al. (2018). *[Comparing Bayesian Models of Annotation](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00040)*|#annotation| 
 |6 | March 10 |  **Modern NLP 1** | - **<span style="color:blue">Read this one first::: </span>** Smith. (2019). *[Contextual Word Representations: A Contextual Introduction](http://arxiv.org/abs/1902.06006)* <br>  -  Pennington et al.(2014). *[Glove: Global vectors for word representation](http://www.aclweb.org/anthology/D14-1162)* <br> - Mikolov et al. (2013). [*Efficient estimation of word representations in vector space*](https://arxiv.org/pdf/1301.3781.pdf) <br> - Levy et al. (2015). *[Improving distributional similarity with lessons learned from word embeddings](https://www.transacl.org/ojs/index.php/tacl/article/view/570/124)* | #modernnlp_1|
-|7 | March 17 |  **Modern NLP 2** | - Vaswani et al. (2017). *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* <br> -  Devlin et al. (2018). *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)* <br>  -  Liu et al. (2019). *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)*  <br> - de Vries et al. (2020). *[What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)* | #modernnlp|
+|7 | March 17 |  **Modern NLP 2** | - Vaswani et al. (2017). *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* <br> -  Devlin et al. (2018). *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)* <br>  -  Liu et al. (2019). *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)*  <br> - de Vries et al. (2020). *[What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)* | #modernnlp_2|
 |8 | March 24 |   **Topic Models** | - Blei. (2012) *[Probabilistic topic models](https://oar.princeton.edu/bitstream/88435/pr1bv3w/1/OA_IntroductionProbabilisticTopicModels.pdf)* <br>  - Bamman et al. (2014). *[A bayesian mixed effects model of literary character](http://www.aclweb.org/anthology/P14-1035)*  <br> - Rudolph and Blei. (2018). [Dynamic Embeddings for Language Evolution](https://pdfs.semanticscholar.org/c4e7/2c764266d85ce0ade71fa812bda43bdd6437.pdf) <br> - Demszky et al. (2019). *[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/abs/1904.01596)* <br> | #topicmodeling|
 |9| March 31 |   **Sentiment** | - Hutto & Gilbert (2014). [*Vader: A parsimonious rule-based model for sentiment analysis of social media text*](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8109/8122) <br> - Felbo et al. (2017). [*Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm*](http://www.aclweb.org/anthology/D17-1169) <br> - Xu et al. (2019). *[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)* | #sentiment|
 |10| April 7 |    **Stance** | - Sen et al. (2020). *[On the Reliability and Validity of Detecting Approval of Political Actors in Tweets](https://www.aclweb.org/anthology/2020.emnlp-main.110.pdf)* <br> - Aldayel and Magdy (2019). *[Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media](https://arxiv.org/pdf/1908.03146.pdf)* <br> - Darwish et al. (2020). *[Unsupervised User Stance Detection on Twitter](https://ojs.aaai.org/index.php/ICWSM/article/view/7286)* | #stance|
@@ -157,7 +157,7 @@ Additionally, the first slide should contain:
 
 # Project Details
 
-The final project in the class will involve running through the standard NLP+CSS pipeline:
+The final project in the class will involve running through the standard NLP+CSS pipeline to analyze either stance (using the method from the [Darwish et al paper](https://ojs.aaai.org/index.php/ICWSM/article/view/7286) or sentiment (using the method from the  [Felbo et al. paper](http://www.aclweb.org/anthology/D17-1169)). See [Model Building](#model-building) below for details on how the models will be implemented. 
  1. Select a question
  2. Collect some (social media) data
  3. Annotate some of that data
@@ -167,8 +167,6 @@ The final project in the class will involve running through the standard NLP+CSS
  
  This project is to be performed in teams of *2* students, although as you will see, there will be opportunities for larger collaboration. If there is an odd number of students, I will allow one group of three students.
  
-
-
 There will be a series of deadlines for the projects throughout the semester; namely, I will make sure that you have completed each of these six steps at various points throughout the semester. For these deadlines:
 
 - All submissions should be sent to me **via Slack** (except for the in person meeting and the presentation, obviously).
@@ -184,6 +182,13 @@ There will be a series of deadlines for the projects throughout the semester; na
 - **April 21nd** - [Almost Final Report](#almost-final-reports) (25)
 - **May 9th** - [Optional poster presentations](#poster-presentations) (+10 Bonus)
 - **May 14th** - [Final project reports due](#final-reports) (35)
+
+
+## Model Building
+
+This class is *not* focused on how to build machine learning models. Because of that, I have explicitly chosen models that either are available on github ([HuggingFace implementation](https://github.com/huggingface/torchMoji) or the [original implementation](https://github.com/bfelbo/DeepMoji)) or that are fairly straightforward to implement using existing tools (with, also, the help of existing code I will provide). 
+
+As such, you are **encouraged** to a) reuse existing code from the web for the modeling process and b) to consult with each other within the class on implemenations. **Ideally**, we would have, as a class, a single implementation of these models (if re-implementation is needed) that we could *collectively publish to GitHub*.
 
 ## Data Collection Reports
 
