@@ -2,13 +2,13 @@
  
 I am an assistant professor in the [CSE](https://www.cse.buffalo.edu/) Department at the University at Buffalo. At UB, I mostly work with folks in the [Computing for Social Good](https://c4sg.cse.buffalo.edu/) group. 
 
-<span style="color:red"> I am, unfortunately, not currently looking for students to work with. I apologize, and hope this will change in the future. However, as such, I cannot promise that I will be able to quickly respond to requests for opportunities to work together. </span> 
+<!--<span style="color:red"> I am, unfortunately, not currently looking for students to work with. I apologize, and hope this will change in the future. However, as such, I cannot promise that I will be able to quickly respond to requests for opportunities to work together. </span> -->
 
 <!-- If you're interested in working together, please send me an email at the address below.</span> Note that while I do not expect any particular skills, you should have a strong interest in both computational modeling of text/networks **and** in sociology, (social) psychology or the humanities.  I am especially seeking to work with students from underrepresented groups in computer science.-->
 
 In the past, I was a postdoc at the [LazerLab](http://www.lazerlab.net/) at the [Network Science Institute](http://www.networkscienceinstitute.org) at Northeastern University and a fellow at Harvard's [Institute for Quantitative Social Science](http://www.iq.harvard.edu/). I completed my graduate work in the [Societal Computing program](http://www.cmu.edu/scs/sc-phd/) in the School of Computer Science at Carnegie Mellon University, where I studied under Kathleen Carley in the [CASOS](http://casos.cs.cmu.edu) lab. 
 
-My research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice, and their interrelationships with sociocultural structure and behavior. In my work, I leverage a variety of machine learning/NLP methods, agent-based modeling strategies and socio-cognitive theories.
+My research research focuses on obtaining a better understanding of the dynamics and cognitive representations of stereotypes and prejudice and their interrelationships with sociocultural structure and behavior. I leverage a variety of computational methods, including machine learning/natural language processing methodand various forms of simulations, agent-based modeling strategies and integrates these methods with socio-cognitive theories. I am the recipient of an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145051&HistoricalAwards=false). In addition to NSF, my work and teaching have also been generously supported in part by grants from the Mozilla Foundation, Amazon, and the Office of Naval Research
 
 Finally, for those who don't want to click the buttons on the left, my info below:
 
