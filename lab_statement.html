@@ -1,0 +1,11 @@
+---
+layout: simple_page
+tagline:
+---
+
+<div class="home_class">
+
+{% capture my_include %}{% include lab_statement.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</div>
