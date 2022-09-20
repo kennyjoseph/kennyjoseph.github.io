@@ -153,13 +153,13 @@ article.home h4 a:hover {
 
 p {
 	font-size:18px;
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
 }
 
 table {  
     color: #333;
     font-size:18px;
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
     border-collapse: 
     collapse; border-spacing: 0; 
 }
@@ -187,7 +187,7 @@ tr:nth-child(odd) td { background: #FEFEFE; }
 
 li {
 	font-size:18px;
-	font-family: 'Roboto', sans-serif;
+/*	font-family: 'Roboto', sans-serif;*/
 }
 .author .author-image {
   float: left;
