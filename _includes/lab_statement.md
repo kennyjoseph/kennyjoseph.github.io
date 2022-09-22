@@ -32,7 +32,7 @@ Some examples of recent work by students that have worked with me include:
 
 For many more examples, check out a [list of publications from our group](https://scholar.google.com/citations?hl=en&user=TNS6P14AAAAJ&view_op=list_works&sortby=pubdate).
 
-## Lab/Personal values
+## Lab values
 
 Below is a list that intermingles my values as an advisor and some values that our group shares. This list is constantly evolving, as new people bring new perspectives and we learn from each other. And, at times, these values conflict - for example, getting yourself to where you want to be may at some points conflict with you being a good teammate.  But hopefully this gives you a sense at what you should expect in working together with me and the others I currently work with. 
 
