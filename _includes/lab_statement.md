@@ -5,7 +5,8 @@ Above all, please know that I am looking to work with people who **1) share our 
 If you have specific questions about this page, please let me know (although please also note that I am sometimes a bit slow to respond during the semester)! If you plan to email about general interest in working with me, it is most helpful and productive if you do so after reading some papers that reflect [what we do](#what-we-do), and comment on that in your email!
 
 Additionally, if you are a[n]...
-- **Prospective MS student** - I have no control over MS admissions. Please contact me after you have applied and been accepted (although see the [logistics](#some-logistics) below).
+- **Prospective PhD student** - If you are trying to figure out if you want to work with me, please do reach out. But I unfortunately have limited control over admissions, so please know that I can't guarantee anything on that point.
+- **Prospective MS student** - I have *no* control over MS admissions. Please contact me after you have applied and been accepted (although see the [logistics](#some-logistics) below).
 - **MS Student at UB** - Please see the [logistics](#some-logistics) below, and then you can email me if still interested!
 - **Undergraduate at UB** - I work with a number of undergrads on a variety of projects that are both more and less research-y. **As an undergrad, you also don't have to be CSE to work with me!** Please fill out [this form](https://forms.gle/gEqdKkeGP4QREyE9A) if you're interested; I'll get an email when you've completed it and get back to you.
 
