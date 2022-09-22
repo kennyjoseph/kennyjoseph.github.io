@@ -18,7 +18,7 @@ Additionally, if you are a[n]...
 
 Logistics are boring but I feel it is important to be up front about some things so that I don't waste your time! To this end, there's a few points that are outside of my hands that are important to consider:
 
-1. **For Ph.D. applicants** - If you would like to work with me, you would have to do so via the [CSE Ph.D. program](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/phd-in-computer-science-and-engineering.html). While I would love to work with students without a background in computing, it is important that you know before applying that you will have to take courses in Computer Science. We can make it work, but I feel it is important to be up front about this.
+1. **For Ph.D. applicants** - If you would like to work with me, you would have to do so via the [CSE Ph.D. program](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/phd-in-computer-science-and-engineering.html). While I would love to work with students without a background in computing, you will have to take courses in Computer Science.
 2. **For M.S. applicants** - it is unfortunately very unlikely that I will have any funds for you as a research assistant, and teaching assistantships are decided by the department.
 3. Finally, while I would love to work with anyone and everyone, I have limited time and funds to work with and pay for the time of students. As such, I am not always actively recruiting, and you may receive a response to any inquiries stating as such.
 
