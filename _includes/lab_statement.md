@@ -53,3 +53,4 @@ Below is a list that intermingles my values as an advisor and some values that o
 
 - [Larremore Lab](https://larremorelab.github.io/manual/)
 - [CMU CoALA Lab](https://www.thecoalalab.com/)
+- [Not a lab value statement, but some good stuff on advisor/advisee relationships](https://twitter.com/jbhuang0604/status/1418407079077842944)
